@@ -51,4 +51,3 @@ Based on this evaluation, **Nano-Banana** was selected as the fixed T2IM for the
 
 While other models (like Model B or C) excelled at high-fidelity "Cartoon" rendering, they consistently failed the **Minimalist** constraint, often confusing it with flat-shaded vector art. Furthermore, Nano-Banana demonstrated the highest retrieval accuracy for specific *Film* and *Literary* entities, minimizing the confounding variable of T2IM knowledge gaps during our evaluation of the MLLM reasoning pipeline.
 
-This selection ensures that failures in our main experiments are primarily attributable to the **MLLM's visual reasoning bottleneck** rather than the T2IM's inability to render the prompt.
