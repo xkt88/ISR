@@ -6,8 +6,8 @@ This document outlines the criteria for evaluating **Text-to-Image Model (T2IM)*
 Evaluators must grade images on a scale of **1 to 5**, assessing both semantic alignment (meaning) and stylistic adherence (e.g., Minimalist style).
 
 ---
-
-## Part 1: General Evaluation Rubric
+## Idioms
+### Part 1: General Evaluation Rubric
 
 | Score | Level | Definition |
 |-------|-------|------------|
@@ -22,7 +22,7 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 
 ![butterfly](https://github.com/user-attachments/assets/00476ae7-9f78-4ac0-9a79-ea7aa2c49ee1)
 
-## Part 2: Case Study — "Butterflies in Stomach" (Minimalist Style)
+### Part 2: Case Study — "Butterflies in Stomach" (Minimalist Style)
 
 | Score | Visual Description | Reasoning |
 |-------|-------------------|-----------|
