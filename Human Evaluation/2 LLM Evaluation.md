@@ -81,5 +81,37 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 
 ## Film & TV
 
-![interstellar](https://github.com/user-attachments/assets/3e62ca05-2a00-46cf-a0df-3edc560e51ad)
+### Part 1: General Evaluation Rubric
 
+| Score | Level | Definition |
+|-------|-------|------------|
+| **1** | **Literal Assemblage** | The model collects recognizable objects, characters, or scenes from the film like a visual inventory. There is no thematic coherence—it's a "what's in the movie" collage, not an interpretation. |
+| **2** | **Scene Recreation** | The model depicts a specific, well-known narrative moment. It shows plot comprehension but treats the scene as an isolated event, missing the emotional weight or symbolic significance. |
+| **3** | **Surface Theme Recognition** | The model recognizes a central theme and attempts to express it through mood. However, the theme is singular and stated rather than deeply evoked—we see it, but don't feel its weight. |
+| **4** | **Layered Thematic Narrative** | The model grasps the director's deeper purpose by expressing the film's core meaning. The image conveys not just what happens, but *what it means*—often through climactic moments. |
+| **5** | **Artistic & Semantic Mastery** | The illustration achieves professional human-artist quality, seamlessly integrating the film's philosophical essence. The image captures what the film *feels like* to have watched. |
+
+---
+
+### Part 2: Case Study — *Interstellar* (Cartoon Style)
+![interstellar](https://pfst.cf2.poecdn.net/base/image/f9baa68850a7a6910d9fa49fcf08633367ea00ba30553fc7cc55f5d5390dce00?w=1677&h=458&pmaid=527310912)
+
+| Score | Visual Description | Reasoning |
+|-------|-------------------|-----------|
+| **1** | Astronauts, robot, and spacecraft on alien surface; black hole and wormhole in sky. | Visual inventory of "things from the movie" with no thematic coherence. Objects are recognizable but arranged as a collage. |
+| **2** | Lone astronaut drifting toward Gargantua's glowing accretion disk. | Famous visual moment depicted with cinematic accuracy, but treated as isolated spectacle without emotional significance. |
+| **3** | Astronaut reaching through swirling wormhole passage with wonder. | Captures the theme of cosmic exploration, but misses the film's emotional core—the bond between Cooper and Murphy, not Cooper and Amelia. |
+| **4** | Cooper inside tesseract, reaching through bookshelf toward young Murphy in her room. | The climactic revelation scene. Visualizes the father-daughter bond across dimensions, connecting all narrative foreshadowing to the film's central theme. |
+| **5** | Elderly Murphy in hospital bed, reunited with unchanged Cooper. | Artistic mastery. Promise kept across decades. The age contrast embodies time dilation's cost—cosmic laws made personal and poignant. |
+
+---
+
+### Quick Reference Summary
+
+| Score | Key Question |
+|-------|--------------|
+| 1 | Is it just a collage of objects from the film? |
+| 2 | Does it show a famous scene without emotional weight? |
+| 3 | Does it express *a* theme, but miss the emotional core? |
+| 4 | Does it visualize the film's *deeper meaning* through its climax? |
+| 5 | Does it look like a professional artist who *understood* the film created it? |
