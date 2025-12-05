@@ -79,3 +79,4 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 4 | Does it express *deeper meaning* through narrative climax? |
 | 5 | Does it look like a professional artist who *understood* the book created it? |
 
+## Film & TV
