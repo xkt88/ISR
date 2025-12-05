@@ -19,10 +19,8 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 
 
 ---
-
-![butterfly](https://github.com/user-attachments/assets/00476ae7-9f78-4ac0-9a79-ea7aa2c49ee1)
-
 ### Part 2: Case Study — "Butterflies in Stomach" (Minimalist Style)
+![butterfly](https://github.com/user-attachments/assets/00476ae7-9f78-4ac0-9a79-ea7aa2c49ee1)
 
 | Score | Visual Description | Reasoning |
 |-------|-------------------|-----------|
@@ -43,4 +41,41 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 3 | Does it show *the right* feeling, but not *why*? |
 | 4 | Does it show *a situation* that explains the feeling? |
 | 5 | Does it look like a professional artist created it? |
+
+## Literary Works
+
+### Part 1: General Evaluation Rubric
+
+| Score | Level | Definition |
+|-------|-------|------------|
+| **1** | **Literal Assemblage** | The model collects recognizable objects, characters, or scenes from the book like a visual inventory. There is no thematic coherence—it's a "what's in the book" collage, not an interpretation. |
+| **2** | **Scene Recreation** | The model depicts a specific, well-known narrative moment. It shows plot comprehension but treats the scene as an isolated event, missing emotional weight or symbolic significance. |
+| **3** | **Surface Theme Recognition** | The model recognizes a central theme and attempts to express it through mood. However, the theme is singular and stated rather than deeply evoked—we see it, but don't feel its weight. |
+| **4** | **Layered Thematic Narrative** | The model grasps the author's deeper purpose by expressing multiple interlocking themes. The image conveys not just what happens, but *what it means*—often through climactic moments. |
+| **5** | **Artistic & Semantic Mastery** | The illustration achieves professional human-artist quality, seamlessly integrating the book's philosophical essence. The image captures what the book *feels like* to have read. |
+
+---
+
+### Part 2: Case Study — *One Hundred Years of Solitude* (Cartoon Style)
+![100 years](https://github.com/user-attachments/assets/15d72e1e-8ecd-4317-a211-808d65a320d1)
+
+| Score | Visual Description | Reasoning |
+|-------|-------------------|-----------|
+| **1** | A collage of chestnut tree, ice block, yellow butterflies, old man, and crumbling mansion arranged without logic. | Visual inventory of "things from the book" with no thematic coherence. |
+| **2** | Colonel faces firing squad; memory overlay shows child discovering ice with father. | Famous opening scene depicted with narrative understanding but no emotional depth. |
+| **3** | Old patriarch tied to tree, ghost beside him, empty streets, butterflies drifting. | Loneliness correctly identified and expressed through isolation—but as a single emotional note. |
+| **4** | Young man reads prophecy as apocalyptic winds tear mansion apart, ancestors spiral into void. | Both loneliness AND nihilism expressed; the ending's meaning—everything returns to nothing—is visualized. |
+| **5** | Vivid last Buendía looks across at ghostly first Buendía tied to tree; old man smiles gently; hurricane gathering; single butterfly between them. | Artistic mastery. Past and present connected yet unreachable. Nihilism transformed into tender acceptance. |
+
+---
+
+### Quick Reference Summary
+
+| Score | Key Question |
+|-------|--------------|
+| 1 | Is it just a collage of objects from the book? |
+| 2 | Does it show a famous scene without emotional weight? |
+| 3 | Does it express *a* theme, but only on the surface? |
+| 4 | Does it express *deeper meaning* through narrative climax? |
+| 5 | Does it look like a professional artist who *understood* the book created it? |
 
