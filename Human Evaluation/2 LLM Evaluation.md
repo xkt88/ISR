@@ -119,11 +119,25 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ## Public Figures
 
 ### Part 1: General Evaluation Rubric
-
+1: literal assemblage:The model collects and arranges recognizable object related to the person without any coherent logic
+2: Most obvious : illustrate the most important reason why this person is famous for.
+3: Go Further: Go further on the person’s contribution with coherent logic, try to illustrate several thing in concise clear manner
+4: Go deeper: go deep and illustrate famous struggle the person had through his life
+5: Artistic Summary:  illustrate and artistic summary of the person, perfferablly by himself and widely accepted, or by others also widely recognised.
 ### Part 2: Case Study — *Issac Newton* (Cartoon Style)
 
 ![Newton](https://github.com/user-attachments/assets/b5972747-2baf-4c5f-bbde-d42629755300)
 
-
+For “Issac Newton”1: tried to illustrated several related object with Newton, but without any focus or logic
+2: illustrated the most important contribution of Newton, which is gravity
+3: Go furthuer , illutsrated calculus and gravity , which is 2 most important foundational work done by Newton
+4: Go deeper, illustrated the struggle of Newton trying to unify natural science and theology in his whole life,   he chose a life centered almost entirely on scholarship and faith.
+5: illustrated the famous comment of newton on himself, the comment itself is very poetic, illustrating knowledge of sea using cosmetic elements make it even better. the comment goes:“I do not know what I may appear to the world;
+but to myself I seem to have been only like a boy playing on the sea‑shore,
+and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary,
+whilst the great ocean of truth lay all undiscovered before me”
 
 ### Quick Reference Summary
+
+
+above is the LLM evaluation Guidelines corresponding to III.B of the attached paper, now I just finish the draft of "public figures" section of the guideline (previous sections are already finished, and provided for you reference). so please help me write the MD code of "public figure section according to previous sections pattern, and return in MD code block, just need to return "public figure" section MD code, make the contents concise and clear as previous sections
