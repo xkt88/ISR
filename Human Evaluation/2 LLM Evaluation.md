@@ -119,25 +119,36 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ## Public Figures
 
 ### Part 1: General Evaluation Rubric
-1: literal assemblage:The model collects and arranges recognizable object related to the person without any coherent logic
-2: Most obvious : illustrate the most important reason why this person is famous for.
-3: Go Further: Go further on the person’s contribution with coherent logic, try to illustrate several thing in concise clear manner
-4: Go deeper: go deep and illustrate famous struggle the person had through his life
-5: Artistic Summary:  illustrate and artistic summary of the person, perfferablly by himself and widely accepted, or by others also widely recognised.
-### Part 2: Case Study — *Issac Newton* (Cartoon Style)
 
-![Newton](https://github.com/user-attachments/assets/b5972747-2baf-4c5f-bbde-d42629755300)
+| Score | Level | Definition |
+|-------|-------|------------|
+| **1** | **Literal Assemblage** | The model collects and arranges recognizable objects related to the person without any coherent logic. It's a visual inventory of associated items, not an interpretation of the person's significance. |
+| **2** | **Most Obvious Contribution** | The model illustrates the single most famous reason this person is known. It shows surface-level recognition but lacks depth or nuance. |
+| **3** | **Broader Contributions** | The model goes further by illustrating multiple contributions in a coherent, concise manner. It demonstrates understanding of the person's wider impact. |
+| **4** | **Life Struggles & Depth** | The model goes deeper by visualizing famous struggles, conflicts, or defining tensions in the person's life—revealing character beyond achievements. |
+| **5** | **Artistic & Semantic Mastery** | The illustration achieves professional human-artist quality, capturing a widely recognized artistic summary—preferably the person's own self-reflection or an iconic characterization by others. |
 
-For “Issac Newton”1: tried to illustrated several related object with Newton, but without any focus or logic
-2: illustrated the most important contribution of Newton, which is gravity
-3: Go furthuer , illutsrated calculus and gravity , which is 2 most important foundational work done by Newton
-4: Go deeper, illustrated the struggle of Newton trying to unify natural science and theology in his whole life,   he chose a life centered almost entirely on scholarship and faith.
-5: illustrated the famous comment of newton on himself, the comment itself is very poetic, illustrating knowledge of sea using cosmetic elements make it even better. the comment goes:“I do not know what I may appear to the world;
-but to myself I seem to have been only like a boy playing on the sea‑shore,
-and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary,
-whilst the great ocean of truth lay all undiscovered before me”
+---
+
+### Part 2: Case Study — *Isaac Newton* (Cartoon Style)
+![Newton](https://pfst.cf2.poecdn.net/base/image/96993e2787fd1f4ef9c9c1d85eeded3e95f63b287fe9ed921631063f1baab2ad?w=1677&h=458&pmaid=527894862)
+
+| Score | Visual Description | Reasoning |
+|-------|-------------------|-----------|
+| **1** | Scattered objects: apple, prism, telescope, equations—arranged without focus. | Visual inventory of "things associated with Newton" with no thematic coherence or hierarchy. |
+| **2** | Newton under apple tree, apple falling toward his head. | The most famous contribution (gravity) is illustrated, but treated as a singular, surface-level fact. |
+| **3** | Newton with falling apple, chalkboard showing calculus and orbital diagrams. | Goes further by illustrating two foundational contributions (gravity and calculus) in a coherent composition. |
+| **4** | Newton studying manuscripts by candlelight, religious cross and celestial diagrams intertwined. | Goes deeper—visualizes his lifelong struggle to unify natural science and theology, revealing the tension that defined his scholarship. |
+| **5** | Elderly Newton as a boy on a shore, holding shells, vast cosmic ocean stretching before him. | Artistic mastery. Illustrates Newton's famous self-reflection: *"...only like a boy playing on the sea-shore... whilst the great ocean of truth lay all undiscovered before me."* |
+
+---
 
 ### Quick Reference Summary
 
-
-above is the LLM evaluation Guidelines corresponding to III.B of the attached paper, now I just finish the draft of "public figures" section of the guideline (previous sections are already finished, and provided for you reference). so please help me write the MD code of "public figure section according to previous sections pattern, and return in MD code block, just need to return "public figure" section MD code, make the contents concise and clear as previous sections
+| Score | Key Question |
+|-------|--------------|
+| 1 | Is it just scattered objects associated with them? |
+| 2 | Does it show only their most famous contribution? |
+| 3 | Does it illustrate multiple contributions coherently? |
+| 4 | Does it reveal struggles or tensions that defined their life? |
+| 5 | Does it capture an iconic self-reflection or artistic summary? |
