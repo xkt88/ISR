@@ -115,3 +115,15 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 3 | Does it express *a* theme, but miss the emotional core? |
 | 4 | Does it visualize the film's *deeper meaning* through its climax? |
 | 5 | Does it look like a professional artist who *understood* the film created it? |
+
+## Public Figures
+
+### Part 1: General Evaluation Rubric
+
+### Part 2: Case Study — *Issac Newton* (Cartoon Style)
+
+![Newton](https://github.com/user-attachments/assets/b5972747-2baf-4c5f-bbde-d42629755300)
+
+
+
+### Quick Reference Summary
