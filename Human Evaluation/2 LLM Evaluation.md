@@ -195,3 +195,7 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 3 | Does it capture what the character *feels* internally? |
 | 4 | Does it show the *relationships* that define who they became? |
 | 5 | Does it embody the *universal meaning* this character represents? |
+
+## 6 Places
+
+### Part 1: General Evaluation Rubric
