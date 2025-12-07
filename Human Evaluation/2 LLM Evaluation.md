@@ -57,7 +57,8 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ---
 
 ### Part 2: Case Study — *One Hundred Years of Solitude* (Cartoon Style)
-![100 years](https://github.com/user-attachments/assets/15d72e1e-8ecd-4317-a211-808d65a320d1)
+
+![100 years](https://github.com/user-attachments/assets/42e30a97-0227-409d-b8c1-b5e5785d933e)
 
 | Score | Visual Description | Reasoning |
 |-------|-------------------|-----------|
@@ -94,7 +95,8 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ---
 
 ### Part 2: Case Study — *Interstellar* (Cartoon Style)
-![interstellar](https://pfst.cf2.poecdn.net/base/image/f9baa68850a7a6910d9fa49fcf08633367ea00ba30553fc7cc55f5d5390dce00?w=1677&h=458&pmaid=527310912)
+
+![interstellar](https://github.com/user-attachments/assets/d15974be-0c9f-4752-967e-27e3f412e478)
 
 | Score | Visual Description | Reasoning |
 |-------|-------------------|-----------|
@@ -131,7 +133,9 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ---
 
 ### Part 2: Case Study — *Isaac Newton* (Cartoon Style)
-![Newton](https://pfst.cf2.poecdn.net/base/image/96993e2787fd1f4ef9c9c1d85eeded3e95f63b287fe9ed921631063f1baab2ad?w=1677&h=458&pmaid=527894862)
+
+![Newton](https://github.com/user-attachments/assets/870ed01c-b270-4f8f-8aae-578646d24fa2)
+
 
 | Score | Visual Description | Reasoning |
 |-------|-------------------|-----------|
