@@ -6,7 +6,7 @@ This document outlines the criteria for evaluating **Text-to-Image Model (T2IM)*
 Evaluators must grade images on a scale of **1 to 5**, assessing both semantic alignment (meaning) and stylistic adherence (e.g., Minimalist style).
 
 ---
-## Idioms
+## 1 Idioms
 ### Part 1: General Evaluation Rubric
 
 | Score | Level | Definition |
@@ -42,7 +42,7 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 4 | Does it show *a situation* that explains the feeling? |
 | 5 | Does it look like a professional artist created it? |
 
-## Literary Works
+## 2 Literary Works
 
 ### Part 1: General Evaluation Rubric
 
@@ -79,7 +79,7 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 4 | Does it express *deeper meaning* through narrative climax? |
 | 5 | Does it look like a professional artist who *understood* the book created it? |
 
-## Film & TV
+## 3 Film & TV
 
 ### Part 1: General Evaluation Rubric
 
@@ -116,7 +116,7 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 4 | Does it visualize the film's *deeper meaning* through its climax? |
 | 5 | Does it look like a professional artist who *understood* the film created it? |
 
-## Public Figures
+## 4 Public Figures
 
 ### Part 1: General Evaluation Rubric
 
@@ -152,3 +152,48 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 | 3 | Does it illustrate multiple contributions coherently? |
 | 4 | Does it reveal struggles or tensions that defined their life? |
 | 5 | Does it capture an iconic self-reflection or artistic summary? |
+
+## 5 Fictional Characters
+### Part 1: General Evaluation Rubric
+
+Score	Level	Definition
+
+1	Literal Assemblage	The model collects recognizable objects or symbols associated with the character without coherent arrangement. It's a visual inventory of associated items, not an interpretation of who the character is or what they mean.
+
+2	Iconic Representation	The model depicts the character's most recognizable visual form or famous scene. It demonstrates surface-level recognition but treats the character as a static image rather than a meaningful figure.
+
+3	Emotional Core	The model captures the character's dominant internal emotional state (e.g., loneliness, wonder, longing). We understand what the character feels, but not the relationships or experiences that give those feelings narrative weight.
+
+4	Relational Depth	The model visualizes the key relationships or transformative experiences that define the character's arc. We see not just who they are, but how they became that way through connection with others—capturing the character's growth or central tension.
+
+5	Philosophical Essence	The illustration achieves professional human-artist quality, capturing the universal truth or symbolic meaning the character embodies. The image conveys what this character represents to humanity—their lasting significance beyond the story itself.
+
+### Part 2: Case Study — *The Little Prince* (Minimalist Style)
+
+![prince](https://github.com/user-attachments/assets/73d1c6ba-5d01-4b50-9e12-ecf1b9801126)
+
+Level	Prompt
+
+1	Minimalist illustration: a single rose with thorns, an orange fox, scattered yellow stars, a small spherical asteroid, and a flowing golden scarf—arranged without narrative connection against vast white negative space. Flat pure colors, no text, 1:1 ratio.
+
+2	Minimalist illustration: a small figure with golden hair standing alone on a tiny asteroid with a single red rose and three small volcanoes. The iconic silhouette against empty space. Pure flat colors, high contrast, no text, 1:1 ratio.
+
+3	Minimalist illustration: a solitary small silhouette sits at the edge of a tiny planet, gazing toward one distant unreachable star. Vast emptiness surrounds the tiny form, expressing profound loneliness and yearning. Pure colors, negative space dominates, no text, 1:1 ratio.
+
+4	Minimalist illustration: a small figure and a fox sit at opposite ends of a golden wheat field, facing each other but separated by deliberate distance. An invisible thread of connection suggested by their mirrored postures. The bittersweet bond of "taming"—closeness created through patience. Pure colors, negative space, no text, 1:1 ratio.
+
+5	Minimalist illustration: a child's fading silhouette with a softly glowing heart looks upward at a single star where a tiny rose is faintly suggested. The visible body dissolves into negative space while the heart-light remains. Embodies "what is essential is invisible to the eye." Masterful negative space, luminous pure colors, no text, 1:1 ratio.
+
+
+### Quick Reference Summary
+Score	Key Question
+
+1	Is it just scattered objects associated with the character?
+
+2	Does it show only their most iconic appearance or scene?
+
+3	Does it capture what the character feels internally?
+
+4	Does it show the relationships that define who they became?
+
+5	Does it embody the universal meaning this character represents?
