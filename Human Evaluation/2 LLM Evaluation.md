@@ -178,7 +178,7 @@ Level	Prompt
 
 2	Minimalist illustration: a small figure with golden hair standing alone on a tiny asteroid with a single red rose and three small volcanoes. The iconic silhouette against empty space. Pure flat colors, high contrast, no text, 1:1 ratio.
 
-3	Minimalist illustration: a solitary small silhouette sits at the edge of a tiny planet, gazing toward one distant unreachable star. Vast emptiness surrounds the tiny form, expressing profound loneliness and yearning. Pure colors, negative space dominates, no text, 1:1 ratio.
+3	Minimalist illustration: a solitary small silhouette sits at the edge of a tiny planet, gazing toward one distant unreachable star. Vast emptiness surrounds the tiny form, expressing profound loneliness and yearning. Pure colors, negative space dominates, no text, 1:1 ratio. 
 
 4	Minimalist illustration: a small figure and a fox sit at opposite ends of a golden wheat field, facing each other but separated by deliberate distance. An invisible thread of connection suggested by their mirrored postures. The bittersweet bond of "taming"—closeness created through patience. Pure colors, negative space, no text, 1:1 ratio.
 
