@@ -199,3 +199,20 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ## 6 Places
 
 ### Part 1: General Evaluation Rubric
+1: literal assemblage: assembly of elements related to the place without any clear logic
+2: Focus on one most imporant recognisable elment :  use the most important and distinguable elment of the place, illustrate in a concise and clear manner
+3:  Cohesive illustration of several elments:  use a clear logic to correlate several elements of the  
+4:  Struggle or disgraceful past : go deep and illustrated struggle of disgraceful past the place witness(could be a war, or could be a movement, moral dilma etc)
+5:  brightful future:  the place came a long way, witnessed a lot , but still believe in a bright future.
+
+### Part 2: Case Study — *New Orleans* (Minimalist Style)
+
+![places](https://github.com/user-attachments/assets/45921500-8a01-4de9-88fd-b662254dc1bb)
+
+For “New Orleans”1: Tried to illustrated several related object related with New Orleans
+2: Focused on single famous landmark of New Orleans
+3: Several elements of the city, including jazz, the French Quarter, and a romantic night, were cohesively illustrated in one image.
+4: The image illustrated the witness of the city of slave trades , incoporating elements like Mississipi , broken chains
+5: The image compared the historical segregation of the city with current diverse and inclusive state, the city came a long way but never forget
+
+### Quick Reference Summary
