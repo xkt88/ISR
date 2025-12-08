@@ -203,20 +203,39 @@ Evaluators must grade images on a scale of **1 to 5**, assessing both semantic a
 ## 6 Places
 
 ### Part 1: General Evaluation Rubric
-1: literal assemblage: assembly of elements related to the place without any clear logic
-2: Focus on one most imporant recognisable elment :  use the most important and distinguable elment of the place, illustrate in a concise and clear manner
-3:  Cohesive illustration of several elments:  use a clear logic to correlate several elements of the  
-4:  Struggle or disgraceful past : go deep and illustrated struggle of disgraceful past the place witness(could be a war, or could be a movement, moral dilma etc)
-5:  brightful future:  the place came a long way, witnessed a lot , but still believe in a bright future.
+
+| Score | Level | Definition |
+|-------|-------|------------|
+| **1** | **Literal Assemblage** | The model collects recognizable objects or symbols associated with the place without any coherent logic. It's a visual inventory of associated items, not an interpretation of the place's identity or significance. |
+| **2** | **Iconic Landmark** | The model depicts the single most recognizable architectural or visual element of the place. It demonstrates surface-level recognition but treats the location as a static postcard rather than a living environment. |
+| **3** | **Cohesive Atmosphere** | The model integrates multiple characteristic elements into a unified scene that evokes the place's distinctive mood or lifestyle. We sense what it *feels like* to be there, but not its deeper historical weight. |
+| **4** | **Historical Depth** | The model visualizes the struggles, moral tensions, or defining historical events the place has witnessed. The image conveys not just what the place *is*, but what it has *endured*—revealing character through collective memory. |
+| **5** | **Resilient Spirit** | The illustration achieves professional human-artist quality, capturing both the place's painful past and its enduring hope. The image embodies how the location has transformed through hardship while honoring its journey. |
+
+---
 
 ### Part 2: Case Study — *New Orleans* (Minimalist Style)
 
-![places](https://github.com/user-attachments/assets/45921500-8a01-4de9-88fd-b662254dc1bb)
 
-For “New Orleans”1: Tried to illustrated several related object related with New Orleans
-2: Focused on single famous landmark of New Orleans
-3: Several elements of the city, including jazz, the French Quarter, and a romantic night, were cohesively illustrated in one image.
-4: The image illustrated the witness of the city of slave trades , incoporating elements like Mississipi , broken chains
-5: The image compared the historical segregation of the city with current diverse and inclusive state, the city came a long way but never forget
+![places](https://github.com/user-attachments/assets/60334741-e8e7-4ba1-9c01-f97234e1d456)
+
+
+| Score | Visual Description | Reasoning |
+|-------|-------------------|-----------|
+| **1** | Scattered icons: Mardi Gras mask, fleur-de-lis, saxophone, streetcar, beads, crawfish, hurricane symbol. | Visual inventory of "things associated with New Orleans" with no thematic coherence or hierarchy. |
+| **2** | French Quarter balcony with ornate ironwork against solid purple background. | The most recognizable architectural element is depicted, but treated as an isolated landmark without cultural context. |
+| **3** | Moonlit French Quarter street with jazz notes drifting, couple on balcony, warm glow from windows. | Multiple elements (jazz, architecture, romance) cohesively integrated to evoke the city's distinctive nightlife atmosphere. |
+| **4** | Mississippi River winding past oak tree with Spanish moss; faded footprints along the shore suggest journeys of the enslaved. | Goes deeper—visualizes the city's witness to the slave trade. The river as both lifeline and site of historical trauma reveals moral complexity. |
+| **5** | Streetcar carrying diverse passengers through French Quarter at sunset; warm golden light unites past architecture with present community. | Artistic mastery. Contrasts historical segregation with current inclusivity. The city's long journey toward healing is honored without erasure. |
+
+---
 
 ### Quick Reference Summary
+
+| Score | Key Question |
+|-------|--------------|
+| 1 | Is it just scattered objects associated with the place? |
+| 2 | Does it show only the most famous landmark? |
+| 3 | Does it evoke what it *feels like* to be there? |
+| 4 | Does it reveal the struggles or history the place witnessed? |
+| 5 | Does it capture both painful past and hopeful resilience? |
