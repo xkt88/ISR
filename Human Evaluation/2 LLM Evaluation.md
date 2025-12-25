@@ -1,4 +1,4 @@
-# Annotator Guidelines: Abstract Visual Reasoning Evaluation
+# Abstract Visual Reasoning Evaluation
 
 ## Overview
 This document outlines the criteria for evaluating **Text-to-Image Model (T2IM)** outputs assisted by Large Language Models (LLMs). The goal is to assess the model's ability to translate **abstract concepts** (specifically Idioms) into coherent visuals, moving beyond literal interpretations to capture the semantic "essence" of the prompt.
