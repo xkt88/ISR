@@ -55,21 +55,8 @@ Each concept is rendered in two contrasting styles:
 ## 4. Methodology: Iterative Self-Refinement (ISR)
 
 The ISR framework orchestrates three components through multi-turn dialogue:
-┌─────────────────────────────────────────────────────────────┐
-│ ISR Pipeline │
-├─────────────────────────────────────────────────────────────┤
-│ Input: Concept C, Style S │
-│ │
-│ For t = 1 to T_max: │
-│ 1. LLM (Creative Director) → Prompt P_t │
-│ 2. T2IM (Synthesizer) → Image V_t │
-│ 3. MLLM (Visual Critic) → (Match M_t, Feedback F_t) │
-│ │
-│ If M_t = True: STOP (successful alignment) │
-│ Else: Feed F_t to next iteration │
-│ │
-│ Output: Final image V_final │
-└─────────────────────────────────────────────────────────────┘
+
+
 A key design principle is the **unification of evaluation and refinement** into a single MLLM reasoning step, enabling efficient closed-loop optimization without separate diagnostic modules.
 
 ---
@@ -163,6 +150,4 @@ The following resources are available in the anonymous repository:
 - **VisualQuest Replication**: Validation results on independent benchmark
 
 ---
-
-
 
