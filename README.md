@@ -95,7 +95,7 @@ Experts view images without metadata and provide open-ended responses identifyin
 ### 6.3 Scoring Rubric (Illustrated Example)
 
 The following illustrates our 5-point rubric using the idiom *"Butterflies in stomach"*:
-
+https://github.com/user-attachments/assets/00476ae7-9f78-4ac0-9a79-ea7aa2c49ee1
 | Score | Level | Description |
 |-------|-------|-------------|
 | 1 | Literal Assemblage | Anatomical stomach with literal butterflies |
