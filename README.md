@@ -1,11 +1,6 @@
 # Iterative Self-Refinement (ISR) for Abstract Visual Reasoning
 
-## Supplementary Materials for Anonymous ICME Submission
 
-> **Repository:** All code, data, and additional materials referenced in this paper will be made available at the anonymous repository:  
-> **https://anonymous.4open.science/r/ISR-D647**
-
----
 
 ## 1. Overview
 
