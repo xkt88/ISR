@@ -4,7 +4,10 @@ VisualQuest is a dataset of **3,551 non-photographic, stylized images** designed
 
 ## Overview
 
-![Dataset Examples](placeholder_fig1.png)
+<img width="2022" height="1050" alt="image" src="https://github.com/user-attachments/assets/dda75fc5-f3e1-4b02-a29a-ada727ad0802" />
+
+
+
 *Figure 1: Examples from VisualQuest illustrating the task format. For each image and question, the model must generate reasoning analysis and the correct label.*
 
 Unlike conventional benchmarks focused on realistic images, VisualQuest features stylized depictions across four knowledge categories:
