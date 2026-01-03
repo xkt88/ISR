@@ -21,7 +21,9 @@ Unlike conventional benchmarks focused on realistic images, VisualQuest features
 
 ## Presentation Methods
 
-![Presentation Examples](placeholder_fig2.png)
+<img width="2152" height="1239" alt="image" src="https://github.com/user-attachments/assets/67defd23-6009-43c3-bf9f-9d444ef53dde" />
+
+
 *Figure 2: Example images demonstrating various presentation methods in the dataset.*
 
 Images span 10 non-realistic presentation styles: Caricature (959), Illustration (829), Visual Pun (692), Emoji Combination (655), Minimalism (149), Symbolism (128), Memoji (89), Cartoon (45), Surrealism (4), and Iconography (1).
