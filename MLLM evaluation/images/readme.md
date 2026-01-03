@@ -41,5 +41,5 @@ Labels are stored in `label.json`:
   "0118": ["Bruce Lee; Li Xiaolong", "Public Figures", "Which Celebrity?", 
            "Caricature", [0, 1, 1, 1, 1, 0, 1, 0, 0, 0], 5]
 }
-
+```
 Format: [Ground Truth, Category, Question, Presentation Method, Recognition Vector, Recognition Count]
