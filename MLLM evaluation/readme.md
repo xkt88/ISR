@@ -27,7 +27,6 @@ based on dataset from another work
 \multicolumn{3}{c}{Open Sourced (M)LLMs} \\
 \hdashline
 \textbf{Llama-4-Maverick}~\cite{llama-4-maverick}& Meta & Apr. 5, 2025 \\
-Qwen3-32B~\cite{qwen3} & Alibaba &  May 14, 2025 \\
 GLM-4.6V~\cite{glm46v}& Z.ai  & Aug. 15, 2025 \\
 Qwen3-VL-235B~\cite{qwen3v} & Alibaba & Sep. 23, 2025 \\
 Gemma-3-27b~\cite{gemma}& Google & Mar. 25, 2025 \\
