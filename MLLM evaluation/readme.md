@@ -38,7 +38,7 @@ Mistral-Small-3.2~\cite{mistral_small} & Mistral AI & Jun. 20, 2025 \\
 
 ```
 
-
+LLMs = ['GPT', 'Claude', 'Gemini', 'Grok', 'Doubao', 'Gemma', 'Mistral', 'Llama', 'GLM', 'Qwen']
 
 
 
