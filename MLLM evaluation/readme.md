@@ -38,6 +38,8 @@ Mistral-Small-3.2~\cite{mistral_small} & Mistral AI & Jun. 20, 2025 \\
 
 ```
 
+above is the latex code which presented the model information of the MLLMs we used, below list is the abbrevated form,so please using both above table  and below list to generate a concise and clear md table aiming to introduce each abbreviated model name indicates which version of the MLLMs
+
 LLMs = ['GPT', 'Claude', 'Gemini', 'Grok', 'Doubao', 'Gemma', 'Mistral', 'Llama', 'GLM', 'Qwen']
 
 
@@ -48,7 +50,7 @@ LLMs = ['GPT', 'Claude', 'Gemini', 'Grok', 'Doubao', 'Gemma', 'Mistral', 'Llama'
 
 <img width="1190" height="690" alt="overall_llm_performance" src="https://github.com/user-attachments/assets/24d032af-afdc-42ad-ab9a-c5cb3ea26670" />
 
-
+Above is the overal performance, which mainly say Gemini and GPT outperforms other LLMs significantly, and Gemini also is better performed then GPT overall.
 
 
 
@@ -56,3 +58,14 @@ LLMs = ['GPT', 'Claude', 'Gemini', 'Grok', 'Doubao', 'Gemma', 'Mistral', 'Llama'
 
 
 <img width="1790" height="1145" alt="llm_performance_benchmark" src="https://github.com/user-attachments/assets/7b47bf00-5250-4490-9545-b6f1ba765367" />
+
+the categoriwise performance shows Gemini significantly better than all other MLLMs on public figure abstractive image recognition, in other 3 categories , gemini and gpt stays in the first tier, GPT is exceptionally good at "Linguistic Expression". so, overall, between these to Gemini is better at visual grounding, while gpt is still strong at linguistic inference related to the image.
+
+
+
+so , after above comparisons , Gemini is significantly better than other MLLMs on visual data grounding, and stay with gpt at the first tier on linguistic logisitic understanding, so we chose Gemini for this work.
+
+
+
+
+
