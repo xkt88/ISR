@@ -43,3 +43,20 @@ Labels are stored in `label.json`:
 }
 ```
 Format: [Ground Truth, Category, Question, Presentation Method, Recognition Vector, Recognition Count]
+
+## Acknowledgments
+
+The VisualQuest dataset used in this work was introduced by Xiao et al. We thank the authors for making this resource publicly available.
+
+## Citation
+
+If you use this dataset, please cite the original work:
+
+```bibtex
+@article{xiao2025visualquest,
+  title={VisualQuest: A Diverse Image Dataset for Evaluating Visual Recognition in LLMs},
+  author={Xiao, Kelaiti and Yang, Liang and Tulajiang, Paerhati and Lin, Hongfei},
+  journal={arXiv preprint arXiv:2503.19936},
+  year={2025}
+}
+```
