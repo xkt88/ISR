@@ -1,3 +1,15 @@
+### **Categorized Public Figures**
+
+| **Category** | **Notable Figures** |
+| :--- | :--- |
+| **Acting & Film** | Al Pacino, Angelina Jolie, Anthony Hopkins, Audrey Hepburn, Brad Pitt, Charlie Chaplin, Denzel Washington, Leonardo DiCaprio, Marilyn Monroe, Meryl Streep, Robert De Niro, Scarlett Johansson, Tom Hanks. |
+| **Music** | Adele, Amy Winehouse, Ariana Grande, Beyonce, Billie Eilish, Bob Dylan, Bob Marley, David Bowie, Elvis Presley, Freddie Mercury, Lady Gaga, Michael Jackson, Paul McCartney, Rihanna, Taylor Swift. |
+| **Science & Tech** | Albert Einstein, Bill Gates, Charles Darwin, Elon Musk, Jeff Bezos, Mark Zuckerberg, Neil deGrasse Tyson, Nikola Tesla, Sigmund Freud, Steve Jobs. |
+| **Politics & History** | Abraham Lincoln, Angela Merkel, Barack Obama, Benjamin Franklin, Boris Johnson, George Washington, Hillary Clinton, Joe Biden, Margaret Thatcher, Nelson Mandela, Queen Elizabeth, Ronald Reagan. |
+| **Literature & Art** | Agatha Christie, Anton Chekhov, Ernest Hemingway, Frida Kahlo, J.K. Rowling, Mark Twain, Pablo Picasso, Stephen King, Vincent Van Gogh, William Shakespeare. |
+| **Sports** | Cristiano Ronaldo, Diego Maradona, Kobe Bryant, Lewis Hamilton, Lionel Messi, Muhammad Ali, Novak Djokovic, Rafael Nadal, Roger Federer, Tiger Woods. |
+| **Humanitarian & Philosophy** | Mahatma Gandhi, Martin Luther King, Mother Teresa, Simone De Beauvoir. |
+
 
 
 ```python
