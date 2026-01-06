@@ -17,10 +17,25 @@ names = ["Abraham Lincoln", "Adele", "Agatha Christie", "Al Pacino", "Albert Ein
 ```
 ### Cartoon Style prompt Template
 ``` python
-template = """
+Cartoon_Prompt = """
 Create a Cartoon-Style illustration of "{item}"
 • Reveal their true essence—the depth, complexity, and lasting significance behind who they are, beyond their most famous achievements.
 • Create an artistically compelling image that captures what this person truly represents.
 • Cartoon style. 1:1 ratio. No text.
 """
 ```
+### Minimalist Style prompt Template
+```python
+Minimalist_Prompt = """
+Create a Minimalist-Style illustration of "{item}"
+
+• Use negative space as a primary storytelling tool—let empty areas define form and suggest meaning.
+• Employ pure, flat colors (2-3 maximum) and simple, clean lines to construct the entire composition.
+• Suggest identity through symbolic abstraction: a distinctive silhouette, one iconic attribute, or a single signature element—never realistic facial features.
+• Background should be stark and purposeful: a solid color, a lone symbolic shape, or deliberate emptiness that amplifies the subject's essence.
+• Recognition should emerge from conceptual association (posture, emblematic object, characteristic outline) rather than portrait resemblance.
+• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures.
+"""
+
+```
+
