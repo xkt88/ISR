@@ -11,6 +11,7 @@ fictional_characters = ["Achilles (Greek Mythology)", "Agent Smith (The Matrix)"
 
 ### Cartoon Style
 ``` python
+Cartoon_Prompt = """
 Create a Cartoon-Style illustration representing "{item}"
 
 • Capture the character's essence through their iconic costume, signature accessories, distinctive silhouette, or symbolic visual elements—not through realistic facial likeness.
