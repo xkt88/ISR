@@ -3,7 +3,6 @@
 
 This document explains our selection of **Gemini-3-Pro** as the visual critic in the Iterative Self-Refinement (ISR) pipeline, based on comprehensive evaluation across 10 MLLMs using the VisualQuest benchmark.
 
----
 
 ## VisualQuest Benchmark
 
