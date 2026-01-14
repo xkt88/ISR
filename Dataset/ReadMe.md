@@ -45,134 +45,226 @@ places = ["Abu Simbel (landmark)", "Acropolis (landmark)", "Alcázar of Segovia 
 ## Prompts
 ### Cartoon Style Prompts
 ```python
-# Public Figures
+# ============================================================
+# CARTOON STYLE PROMPTS
+# Characteristics: Vibrant, lively, playful/humorous, well-structured
+# composition with multiple relevant elements, stylized (not realistic)
+# ============================================================
+
+# Public Figures - Cartoon
 cartoon_prompt_public_figures = """
 Create a Cartoon-Style illustration of "{item}"
-• Reveal their true essence—the depth, complexity, and lasting significance behind who they are, beyond their most famous achievements.
-• Create an artistically compelling image that captures what this person truly represents.
-• Cartoon style. 1:1 ratio. No text.
+
+CONCEPT:
+• Capture their true essence—the depth, significance, and legacy beyond their famous achievements.
+• Represent identity through symbolic elements, iconic attributes, or characteristic actions.
+
+STYLE:
+• Vibrant, lively colors with playful, expressive energy.
+• Well-structured composition integrating relevant symbolic elements.
+• Stylized, exaggerated features—NO realistic facial features or photorealistic rendering.
+• Include humorous or whimsical touches where appropriate.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Film & TV
+# Film & TV - Cartoon
 cartoon_prompt_film_tv = """
 Create a Cartoon-Style illustration representing "{item}"
-• Capture the essence—its core themes, iconic scenes, or defining atmosphere—rather than realistic portrayals of actors or actresses.
-• Depict a memorable moment or symbolic composition that conveys what this work truly represents.
-• Cartoon style. 1:1 ratio. No text.
+
+CONCEPT:
+• Capture the work's essence—core themes, iconic scenes, or defining atmosphere.
+• Depict memorable moments or symbolic compositions that convey its identity.
+
+STYLE:
+• Vibrant, lively colors with dynamic, expressive energy.
+• Well-structured composition using thematic visual elements.
+• Stylized imagery—NO realistic actor/actress portrayals or photorealistic scenes.
+• Include playful or whimsical touches where fitting.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Literary Works
+# Literary Works - Cartoon
 cartoon_prompt_literary = """
 Create a Cartoon-Style illustration representing "{item}"
-• Capture the essence—its central themes, symbolic imagery, or defining atmosphere—drawn from the written work itself, not any film or TV adaptation.
-• Depict an iconic scene, key metaphor, or thematic composition that conveys the work's literary soul.
-• Cartoon style. 1:1 ratio. No text.
+
+CONCEPT:
+• Capture the essence—central themes, symbolic imagery, or defining atmosphere from the WRITTEN work.
+• Depict iconic scenes, key metaphors, or thematic compositions—NOT from film/TV adaptations.
+
+STYLE:
+• Vibrant, lively colors with imaginative, expressive energy.
+• Well-structured composition integrating literary symbols and motifs.
+• Stylized imagery—NO photorealistic rendering or adaptation-derived visuals.
+• Include playful or whimsical touches where appropriate.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Fictional Characters
+# Fictional Characters - Cartoon
 cartoon_prompt_fictional = """
 Create a Cartoon-Style illustration representing "{item}"
-• Capture the character's essence through their iconic costume, signature accessories, distinctive silhouette, or symbolic visual elements—not through realistic facial likeness.
-• Facial features must be stylized and abstracted: use exaggerated proportions, bold outlines, simplified shapes, or symbolic markers rather than photorealistic or portrait-like rendering.
-• Ensure the character is recognizable through cartoon-style visual cues—such as color palette, iconic props, characteristic poses, emblematic attire, or environmental context—rather than literal facial accuracy.
-• Convey the character's personality, mythological/narrative role, or defining traits through artistic interpretation and thematic imagery.
-• Cartoon style. 1:1 ratio. No text.
+
+CONCEPT:
+• Capture the character through iconic costume, signature accessories, distinctive silhouette, or symbolic elements.
+• Convey personality and narrative role through artistic interpretation.
+
+STYLE:
+• Vibrant, lively colors with dynamic, expressive energy.
+• Well-structured composition with recognizable visual cues (color palette, props, poses, attire).
+• Stylized, exaggerated features—NO realistic facial likeness or actor/actress resemblance.
+• Include playful or whimsical touches where fitting.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Idioms
+# Idioms - Cartoon
 cartoon_prompt_idioms = """
 Create a Cartoon-Style illustration representing the idiom "{item}"
-• **Dual-layer approach**: Incorporate visual elements that reference the idiom's literal wording, then embed these elements within a scene that conveys the idiom's figurative/metaphorical meaning.
-• Depict a **contextual scenario or environment** that naturally triggers the idiom's emotional meaning—show the *situation* that would cause someone to experience this feeling or state.
-• Integrate any literal imagery **creatively and seamlessly** into the metaphorical context—literal elements should enhance the figurative message, not contradict it.
-• The character's emotion or state should be **clearly identifiable** through exaggerated cartoon expressions, body language, or situational cues—avoid vague or generic depictions.
-• **Do not** create pure literal translations (e.g., anatomical depictions) or isolated emotions without a triggering context.
-• Cartoon style. 1:1 ratio. No text.
+
+CONCEPT:
+• DUAL-LAYER approach: Reference literal wording visually, embedded within a scene conveying figurative meaning.
+• Depict a contextual scenario that naturally triggers the idiom's emotional meaning.
+• Show clear emotions through exaggerated expressions and body language—avoid pure literal translations.
+
+STYLE:
+• Vibrant, lively colors with playful, expressive energy.
+• Well-structured composition seamlessly integrating literal and metaphorical elements.
+• Stylized cartoon imagery with exaggerated expressions.
+• Include humorous touches where appropriate.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Places
+# Places - Cartoon
 cartoon_prompt_places = """
 Create a Cartoon-Style illustration representing the place "{item}"
-• **Capture the place's unique identity** through its most iconic visual signatures—distinctive landmarks, architectural silhouettes, cultural symbols, or atmospheric elements that define its character.
-• For **cities**: Convey essence through a combination of recognizable landmarks, cultural motifs, local color palettes, historical references, or the city's characteristic vibe and energy.
-• For **landmarks**: Emphasize the structure's distinctive architectural form, symbolic significance, or cultural context that makes it instantly identifiable.
-• Use **stylized, abstracted illustration**—exaggerated shapes, bold colors, and artistic interpretation rather than photorealistic depiction. The place should be recognizable through cartoon visual cues, not photographic accuracy.
-• Incorporate **cultural or atmospheric storytelling**: local traditions, famous associations, characteristic weather, or iconic activities that evoke the place's spirit.
-• Avoid realistic rendering—prioritize **symbolic representation** and artistic stylization that captures the place's soul over literal accuracy.
-• Cartoon style. 1:1 ratio. No text.
+
+CONCEPT:
+• Capture unique identity through iconic landmarks, architectural silhouettes, or cultural symbols.
+• Incorporate cultural storytelling: local traditions, characteristic energy, or famous associations.
+
+STYLE:
+• Vibrant, lively colors with expressive, energetic atmosphere.
+• Well-structured composition integrating recognizable visual signatures.
+• Stylized, abstracted illustration—NO photorealistic rendering.
+• Include playful or whimsical touches where fitting.
+
+FORMAT: 1:1 ratio. No text.
 """
+
 ```
 ### Minimalist Style Prompts
 
 ```python
-# Public Figures
+
+# ============================================================
+# MINIMALIST STYLE PROMPTS
+# Characteristics: "Less is more", essential elements only,
+# pure flat colors (2-3 max), negative space, clean lines
+# ============================================================
+
+# Public Figures - Minimalist
 minimalist_prompt_public_figures = """
 Create a Minimalist-Style illustration of "{item}"
-• Use negative space as a primary storytelling tool—let empty areas define form and suggest meaning.
-• Employ pure, flat colors (2-3 maximum) and simple, clean lines to construct the entire composition.
-• Suggest identity through symbolic abstraction: a distinctive silhouette, one iconic attribute, or a single signature element—never realistic facial features.
-• Background should be stark and purposeful: a solid color, a lone symbolic shape, or deliberate emptiness that amplifies the subject's essence.
-• Recognition should emerge from conceptual association (posture, emblematic object, characteristic outline) rather than portrait resemblance.
-• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures.
+
+CONCEPT:
+• Suggest identity through symbolic abstraction: distinctive silhouette, one iconic attribute, or single signature element.
+• Recognition through conceptual association—NOT portrait resemblance.
+
+STYLE:
+• Pure, flat colors (2-3 maximum) with clean, simple lines.
+• Negative space as primary storytelling tool—emptiness defines form and meaning.
+• Stark background: solid color or deliberate emptiness.
+• NO realistic facial features, gradients, or complex textures.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Film & TV
+# Film & TV - Minimalist
 minimalist_prompt_film_tv = """
 Create a Minimalist-Style illustration representing "{item}"
-• Use negative space as a primary storytelling tool—let empty areas define form and suggest narrative weight.
-• Employ pure, flat colors (2-3 maximum) and simple, clean lines to construct the entire composition.
-• Suggest the work through symbolic abstraction: an iconic prop, a signature visual motif, or a single defining scene reduced to its essential geometry—never realistic actor or actress facial features.
-• Background should be stark and purposeful: a solid color, a lone symbolic shape, or deliberate emptiness that amplifies the work's atmosphere.
-• Recognition should emerge from conceptual association (emblematic objects, characteristic color palette, distinctive visual metaphor) rather than portrait resemblance.
-• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures.
+
+CONCEPT:
+• Suggest the work through symbolic abstraction: iconic prop, signature motif, or defining scene reduced to essential geometry.
+• Recognition through conceptual association—NOT actor/actress resemblance.
+
+STYLE:
+• Pure, flat colors (2-3 maximum) with clean, simple lines.
+• Negative space as primary storytelling tool—emptiness suggests narrative weight.
+• Stark background: solid color or deliberate emptiness.
+• NO realistic portrayals, gradients, or complex textures.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Literary Works
+# Literary Works - Minimalist
 minimalist_prompt_literary = """
 Create a Minimalist-Style illustration representing "{item}"
-• Use negative space as a primary storytelling tool—let empty areas define form and suggest literary weight.
-• Employ pure, flat colors (2-3 maximum) and simple, clean lines to construct the entire composition.
-• Suggest the work through symbolic abstraction: a central metaphor, an iconic object from the text, or a pivotal scene reduced to its essential geometry—drawn from the written work itself, never from film or TV adaptations.
-• Background should be stark and purposeful: a solid color, a lone symbolic shape, or deliberate emptiness that amplifies the work's emotional tone.
-• Recognition should emerge from literary association (thematic symbols, signature motifs, distinctive imagery from the text) rather than adaptation-derived visuals.
-• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures.
+
+CONCEPT:
+• Suggest the work through symbolic abstraction: central metaphor, iconic object, or pivotal scene reduced to essential geometry.
+• Draw from the WRITTEN work—NOT film/TV adaptations.
+
+STYLE:
+• Pure, flat colors (2-3 maximum) with clean, simple lines.
+• Negative space as primary storytelling tool—emptiness suggests literary weight.
+• Stark background: solid color or deliberate emptiness.
+• NO adaptation-derived visuals, gradients, or complex textures.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Fictional Characters
+# Fictional Characters - Minimalist
 minimalist_prompt_fictional = """
 Create a Minimalist-Style illustration representing "{item}"
-• Use negative space as a primary storytelling tool—let empty areas define the character's presence and symbolic weight.
-• Employ pure, flat colors (2–3 maximum) and simple, clean lines to construct the entire composition.
-• **Avoid any realistic facial features**—especially those resembling actors or actresses who have portrayed the character. Instead, represent identity through iconic silhouette, signature weapon/accessory, distinctive headwear, or symbolic body language.
-• Suggest the character through symbolic abstraction: a defining object, emblematic color scheme, characteristic pose, or mythological/narrative attribute reduced to essential geometry.
-• Background should be stark and purposeful: a solid color, a lone symbolic shape, or deliberate emptiness that amplifies the character's essence or origin story.
-• Recognition should emerge from **visual iconography** (costume elements, legendary props, silhouette contour, symbolic motifs) rather than facial likeness or actor-derived visuals.
-• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures. No realistic human faces.
+
+CONCEPT:
+• Represent identity through iconic silhouette, signature accessory, or symbolic body language.
+• Recognition through visual iconography—NOT facial likeness or actor resemblance.
+
+STYLE:
+• Pure, flat colors (2-3 maximum) with clean, simple lines.
+• Negative space as primary storytelling tool—emptiness defines presence.
+• Stark background: solid color or deliberate emptiness.
+• NO realistic facial features, gradients, or complex textures.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Idioms
+# Idioms - Minimalist
 minimalist_prompt_idioms = """
 Create a Minimalist-Style illustration representing the idiom "{item}"
-• **Dual-layer concept**: Reference the idiom's literal wording through a single, essential visual element, then place it within a context that reveals the figurative meaning.
-• **Less is more**: Use the absolute minimum number of elements needed for recognition—ideally one or two symbolic forms that bridge literal and metaphorical interpretation.
-• Use negative space as a primary storytelling tool—let emptiness carry emotional weight and suggest the idiom's underlying meaning.
-• Employ pure, flat colors (2–3 maximum) and simple, clean lines only.
-• The triggering context or emotional state should be implied through composition, spatial relationships, or a single environmental cue—not through detailed scenes.
-• Prioritize **symbolic reduction**: distill both the literal phrase and its figurative meaning into essential geometric forms or iconic shapes.
-• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures. No detailed facial expressions.
+
+CONCEPT:
+• DUAL-LAYER approach: Reference literal wording through one essential element, placed in context revealing figurative meaning.
+• Use absolute minimum elements—ideally one or two symbolic forms bridging literal and metaphorical.
+
+STYLE:
+• Pure, flat colors (2-3 maximum) with clean, simple lines.
+• Negative space carries emotional weight—imply context through composition, not detailed scenes.
+• Stark background: solid color or deliberate emptiness.
+• NO detailed expressions, gradients, or complex textures.
+
+FORMAT: 1:1 ratio. No text.
 """
 
-# Places
+# Places - Minimalist
 minimalist_prompt_places = """
 Create a Minimalist-Style illustration representing the place "{item}"
-• **Iconic reduction**: Distill the place's identity into a single defining silhouette, architectural form, or cultural symbol—the one element that makes it unmistakable.
-• **Less is more**: Use the absolute minimum number of elements needed for recognition—ideally one iconic shape or two complementary forms maximum.
-• For **cities**: Reduce identity to the most recognizable landmark silhouette, a distinctive architectural motif, or a singular cultural symbol.
-• For **landmarks**: Abstract the structure to its essential geometric form—the shape that remains recognizable even when stripped of all detail.
-• Use negative space as a storytelling tool—let emptiness suggest scale, atmosphere, or cultural weight.
-• Employ pure, flat colors (2–3 maximum) and simple, clean lines only. Color choice should reinforce place identity where possible.
-• Recognition should emerge from **silhouette and symbolic geometry** rather than architectural detail or photographic accuracy.
-• Minimalist style. 1:1 ratio. No text. No gradients. No complex textures. No realistic rendering.
+
+CONCEPT:
+• Distill identity into single defining silhouette, architectural form, or cultural symbol.
+• Use absolute minimum elements—ideally one iconic shape or two complementary forms.
+
+STYLE:
+• Pure, flat colors (2-3 maximum) with clean, simple lines. Colors should reinforce place identity.
+• Negative space suggests scale and atmosphere.
+• Stark background: solid color or deliberate emptiness.
+• NO realistic rendering, architectural detail, gradients, or complex textures.
+
+FORMAT: 1:1 ratio. No text.
 """
 ```
 
