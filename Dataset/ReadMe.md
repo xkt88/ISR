@@ -267,7 +267,95 @@ STYLE:
 FORMAT: 1:1 ratio. No text.
 """
 ```
+### MLLM prompts
+```python
+promptMLLM = {
+    "public_figures": """
+Identify which public figure the attached image represents.
 
+Instructions:
+1. Analyze the visual elements: symbols, attributes, silhouette, color palette, and any iconic features.
+2. Consider what these elements suggest about the person's identity, profession, or legacy.
+3. Provide your final answer in the last line.
+
+Example:
+Input: A cartoon-style image of a woman with blonde hair singing emotionally on stage.
+Analysis: The image depicts a blonde woman in an expressive singing pose. The body features and stage presence strongly resemble the British singer Adele, known for her powerful vocals and emotional performances.
+Answer: Adele
+""",
+
+    "film_tv": """
+Identify which film or TV show the attached image represents.
+
+Instructions:
+1. Analyze the visual elements: scenes, props, color schemes, symbolic imagery, and thematic motifs.
+2. Consider what narrative, genre, or iconic moments these elements suggest.
+3. Provide your final answer in the last line.
+
+Example:
+Input: A minimalist image showing a red pill and a blue pill against a black background.
+Analysis: The image depicts two pills—one red, one blue—a direct reference to the iconic choice scene. This symbolizes the decision between truth and illusion, famously presented in the sci-fi film The Matrix.
+Answer: The Matrix
+""",
+
+    "literary_works": """
+Identify which literary work the attached image represents.
+
+Instructions:
+1. Analyze the visual elements: symbols, scenes, objects, color palette, and thematic imagery.
+2. Consider what literary themes, narratives, or iconic moments these elements suggest.
+3. Provide your final answer in the last line.
+
+Example:
+Input: A cartoon-style image of a boy with a lightning bolt scar holding a wand in a castle setting.
+Analysis: The image shows a young boy with round glasses and a distinctive lightning bolt scar on his forehead, holding a wand in what appears to be a magical castle. These are iconic elements from J.K. Rowling's fantasy novel series.
+Answer: Harry Potter
+""",
+
+    "fictional_characters": """
+Identify which fictional character the attached image represents.
+
+Instructions:
+1. Analyze the visual elements: costume, accessories, silhouette, color scheme, and symbolic attributes.
+2. Consider what narrative origin, personality, or iconic traits these elements suggest.
+3. Provide your final answer in the last line.
+
+Example:
+Input: A minimalist image showing a red cape and an "S" symbol against a blue background.
+Analysis: The image features a flowing red cape and the iconic "S" shield emblem, rendered in the classic red and blue color scheme. These are the signature visual elements of the DC Comics superhero known for superhuman strength and flight.
+Answer: Superman
+""",
+
+    "idioms": """
+Identify which idiom or expression the attached image represents.
+
+Instructions:
+1. Analyze the visual elements: literal objects, figurative context, emotional cues, and symbolic composition.
+2. Consider how literal imagery and figurative meaning are combined to suggest a common expression.
+3. Provide your final answer in the last line.
+
+Example:
+Input: A cartoon-style image of a person at a podium with butterflies visible in their stomach area.
+Analysis: The image shows a nervous speaker at a podium with butterflies illustrated around their midsection. This combines the literal imagery of butterflies with a context of anxiety, representing the feeling of nervousness before a public event.
+Answer: Butterflies in stomach
+""",
+
+    "places": """
+Identify which place (city or landmark) the attached image represents.
+
+Instructions:
+1. Analyze the visual elements: architectural forms, landmarks, cultural symbols, and characteristic features.
+2. Consider what geographic location or famous site these elements suggest.
+3. Provide your final answer in the last line.
+
+Example:
+Input: A minimalist image showing an orange silhouette of a bridge with towers against a foggy background.
+Analysis: The image depicts the distinctive silhouette of a suspension bridge with two iconic towers, rendered in orange—the signature color of the famous landmark spanning the bay entrance in California.
+Answer: Golden Gate Bridge
+"""
+}
+
+```
 ## Usage
 To generate images for a specific domain and style, format the prompt with the target concept:
 ```python
