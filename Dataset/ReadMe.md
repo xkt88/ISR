@@ -267,7 +267,7 @@ STYLE:
 FORMAT: 1:1 ratio. No text.
 """
 ```
-### MLLM prompts
+### Critic MLLM Prompt
 ```python
 promptMLLM = {
     "public_figures": """
@@ -355,6 +355,77 @@ Answer: Golden Gate Bridge
 """
 }
 
+```
+### Judge MLLM Prompt
+```python
+# Style-specific constraints for suggestions
+# Domain-specific judgment criteria (lightweight lookup)
+DOMAIN_CRITERIA = {
+    "public_figures": "identity through symbolic attributes, iconic elements, or signature characteristics—NOT facial resemblance",
+    "film_tv": "thematic elements, iconic scenes, props, or visual motifs associated with the work",
+    "literary_works": "literary symbols, central metaphors, or scenes from the WRITTEN work (not adaptations)",
+    "fictional_characters": "costume, silhouette, signature accessories, or symbolic attributes",
+    "idioms": "dual-layer meaning: literal visual elements embedded in figurative context",
+    "places": "iconic landmarks, architectural silhouettes, or cultural symbols"
+}
+
+STYLE_CONSTRAINTS = {
+    "cartoon": "Suggestions may include additional symbolic elements, expressive details, or contextual scene elements. Maintain vibrant, stylized aesthetic.",
+    "minimalist": "Suggestions must be extremely sparse—at most 1-2 additional elements. Respect 2-3 color limit. Use negative space. NO added complexity or texture."
+}
+
+def get_judge_prompt(domain, style, input_concept, prediction):
+    return f"""
+You are a visual critic evaluating whether an AI-generated image successfully conveys its intended concept.
+
+## CONTEXT
+- **Intended Concept:** {input_concept}
+- **Domain:** {domain}
+- **Style:** {style}
+- **MLLM Recognition:** {prediction}
+
+## TASK
+
+### Step 1: Alignment Check
+Determine if "{prediction}" semantically aligns with "{input_concept}".
+- Accept synonyms, alternative phrasings, or conceptual equivalence
+- For {domain}, alignment means: {DOMAIN_CRITERIA[domain]}
+
+### Step 2: If NOT Aligned — Diagnose the Gap
+Explain briefly:
+- Why might the image have been recognized as "{prediction}" instead of "{input_concept}"?
+- What key visual elements are missing or ambiguous?
+
+### Step 3: Generate Suggestions
+Provide specific, actionable visual suggestions that:
+1. Are **ADDITIVE** — enhance existing elements, do not replace or contradict previous prompts
+2. **Respect style constraints:** {STYLE_CONSTRAINTS[style]}
+3. Target the specific recognition gap identified above
+
+## OUTPUT FORMAT (strict)
+ALIGNED: [True/False]
+ANALYSIS: [1-2 sentences explaining alignment or the recognition gap]
+SUGGESTIONS: [If False: specific visual additions. If True: leave empty]
+"""
+```
+### LLM Prompt
+```python
+REFINE_PROMPT = """You are refining an image generation prompt based on feedback.
+
+CURRENT PROMPT:
+{current_prompt}
+
+IMPROVEMENT SUGGESTIONS:
+{suggestions}
+
+REFINEMENT RULES:
+1. Make MINIMAL, targeted changes—only address what the suggestions mention
+2. PRESERVE all existing style descriptors and constraints verbatim
+3. PRESERVE the abstract/stylized nature—never add photorealistic elements
+4. ADD or MODIFY only the specific visual elements mentioned in suggestions
+5. Keep the same prompt structure and length
+
+OUTPUT: Return ONLY the refined prompt text, no explanation."""
 ```
 ## Usage
 To generate images for a specific domain and style, format the prompt with the target concept:
