@@ -56,7 +56,7 @@ This is the main workspace. You will view images one by one and assign a quality
 <table>
   <thead>
     <tr>
-      <th width="25%">Button / Area</th>
+      <th width="20%">Button / Area</th>
       <th>Function</th>
     </tr>
   </thead>
