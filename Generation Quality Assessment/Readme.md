@@ -22,7 +22,7 @@ Upon opening the tool, you will be greeted by the landing page.
 * **Action:** Enter your Name or Annotator ID.
 * **Purpose:** This name will be appended to your final results file (e.g., `Task_A_Scores(Alex).csv`) to track contributions.
 
-![Landing Page Screenshot](placeholder_path_here)
+<img width="917" height="554" alt="image" src="https://github.com/user-attachments/assets/a7de5c07-34ac-4e14-ac70-d351387e748a" />
 
 ---
 
