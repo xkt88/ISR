@@ -53,14 +53,40 @@ This is the main workspace. You will view images one by one and assign a quality
 
 #### 🎮 Controls & Buttons
 
-| Button / Area | Function |
-| :--- | :--- |
-| **Score Buttons**<br>(Keys `1` - `5`) | Assigns a score to the current image. Clicking a score automatically advances to the next image after a short delay. |
-| **Navigation**<br>`← Prev` / `Next →` | Manually navigate through the image list without changing scores. |
-| **📖 Go Back**<br>**to Guide** | Opens the Training Module overlay. Use this if you need to double-check the rubric for a specific domain while working. |
-| **💾 Save CSV** | Exports your progress to a `.csv` file. **Save frequently.** |
-| **🗑️ Reset** | Clears all current scores. Use with caution. |
-| **Thumbnail Grid**<br>*(Left Panel)* | Shows your progress. Images with a green checkmark (`✓`) have been scored. Click any thumbnail to jump to that image. |
+<table>
+  <thead>
+    <tr>
+      <th width="25%">Button / Area</th>
+      <th>Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Score Buttons (1-5)</b></td>
+      <td>Assigns a score to the current image. Clicking a score automatically advances to the next image after a short delay. You can also use keyboard keys <code>1</code> through <code>5</code>.</td>
+    </tr>
+    <tr>
+      <td><b>← Previous / Next →</b></td>
+      <td>Manually navigate through the image list without changing scores.</td>
+    </tr>
+    <tr>
+      <td><b>📖 Go Back to Guide</b></td>
+      <td>Opens the Training Module overlay. Use this if you need to double-check the rubric for a specific domain while working.</td>
+    </tr>
+    <tr>
+      <td><b>💾 Save CSV</b></td>
+      <td>Exports your progress to a <code>.csv</code> file. <b>Save frequently.</b></td>
+    </tr>
+    <tr>
+      <td><b>🗑️ Reset</b></td>
+      <td>Clears all current scores. Use with caution.</td>
+    </tr>
+    <tr>
+      <td><b>Thumbnail Grid</b><br><em>(Left Panel)</em></td>
+      <td>Shows your progress. Images with a green checkmark (<code>✓</code>) have been scored. Click any thumbnail to jump to that image.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
