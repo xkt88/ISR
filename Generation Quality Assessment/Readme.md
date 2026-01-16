@@ -32,7 +32,9 @@ Before starting, you must review the evaluation criteria. The tool includes an i
 * **Navigation:** Use the **"Next Section →"** button to read through the specific rubrics and case studies for each domain.
 * **Completion:** Once you reach the final section, click **"Understood! Let's Go!"** to proceed.
 
-![Training Module Screenshot](placeholder_path_here)
+
+<img width="1666" height="901" alt="image" src="https://github.com/user-attachments/assets/7d18f5fe-b5c8-42ca-8eb8-f58fa729b957" />
+<img width="1659" height="897" alt="image" src="https://github.com/user-attachments/assets/f835e973-dedd-41aa-ad6f-cbdb78c86e04" />
 
 ---
 
@@ -42,14 +44,15 @@ You will be prompted to load the image dataset.
 * **Selection:** Select the folder on your computer that contains the full set of source images (300+ images).
 * **Auto-Sampling:** The tool will automatically sort the files and select the specific **100 images** required for this evaluation task.
 
-![Setup Overlay Screenshot](placeholder_path_here)
+<img width="805" height="413" alt="image" src="https://github.com/user-attachments/assets/9f7a842a-9d0b-4f9c-8c29-5e29042ad29b" />
 
 ---
 
 ### Step 4: Annotation Interface
 This is the main workspace. You will view images one by one and assign a quality score (1-5).
 
-![Annotation Interface Screenshot](placeholder_path_here)
+<img width="1806" height="980" alt="image" src="https://github.com/user-attachments/assets/b2256053-acd4-4335-b178-a75fa0236c8d" />
+
 
 #### 🎮 Controls & Buttons
 
