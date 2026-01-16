@@ -55,12 +55,12 @@ This is the main workspace. You will view images one by one and assign a quality
 
 | Button / Area | Function |
 | :--- | :--- |
-| **Score Buttons (1-5)** | Assigns a score to the current image. Clicking a score automatically advances to the next image after a short delay. You can also use keyboard keys `1` through `5`. |
-| **← Previous / Next →** | Manually navigate through the image list without changing scores. |
-| **📖 Go Back to Guide** | Opens the Training Module overlay. Use this if you need to double-check the rubric for a specific domain while working. |
+| **Score Buttons**<br>(Keys `1` - `5`) | Assigns a score to the current image. Clicking a score automatically advances to the next image after a short delay. |
+| **Navigation**<br>`← Prev` / `Next →` | Manually navigate through the image list without changing scores. |
+| **📖 Go Back**<br>**to Guide** | Opens the Training Module overlay. Use this if you need to double-check the rubric for a specific domain while working. |
 | **💾 Save CSV** | Exports your progress to a `.csv` file. **Save frequently.** |
 | **🗑️ Reset** | Clears all current scores. Use with caution. |
-| **Thumbnail Grid** | (Left Panel) Shows your progress. Images with a green checkmark (`✓`) have been scored. Click any thumbnail to jump to that image. |
+| **Thumbnail Grid**<br>*(Left Panel)* | Shows your progress. Images with a green checkmark (`✓`) have been scored. Click any thumbnail to jump to that image. |
 
 ---
 
