@@ -48,7 +48,6 @@ To ensure mathematical rigor, the percentages below reflect exact fractional hit
 | 9 | FLUX-2-Pro | 70.3% | 70.8% | 67.8% | 72.2% | $0.030 |
 | 10 | StableDiffusion3.5-L | 65.5% | 66.4% | 64.4% | 65.6% | $0.056 |
 
-*(Note: The raw checkpoint evaluation data for all 540 generated images can be found in `raw_evaluations.csv`.)*
 
 ---
 
