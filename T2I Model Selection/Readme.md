@@ -46,7 +46,7 @@ To ensure the scalability of the Iterative Self-Refinement (ISR) framework—whi
 | 9 | Seedream-4.5 | 61.2% | 58.4% | 62.2% | 63.0% | $0.040 |
 | 10 | Grok-Imagine-Image | 58.7% | 55.7% | 58.8% | 61.6% | $0.020 |
 
-*(Note: The raw checkpoint evaluation data for all 540 generated images can be found in `raw_evaluations.csv`.)*
+
 
 ---
 
