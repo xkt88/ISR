@@ -42,7 +42,7 @@ Each model generated 54 images (one per prompt). Images were evaluated against t
 | 7 | seedream 4.5 | 61.2% | 58.4% | 62.2% | 63.0% |
 | 8 | Grok-Imagine | 58.7% | 55.7% | 58.8% | 61.6% |
 
-*(Note: The raw checkpoint evaluation data for all 432 generated images can be found in `raw_evaluations.csv`.)*
+
 
 ---
 
