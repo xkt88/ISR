@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "category": "Literary Works",
+    "raw_prompt": "A minimalist, geometric abstraction inspired by Moby Dick. The entire image must consist of exactly three overlapping shapes: a large dark blue semi-circle representing the whale, a smaller crisp white triangle representing the sail, and a solid light blue background. Absolutely no water texture, no eyes, no ropes, no clouds, and no gradients.",
+    "checklist": [
+      "1. Image consists ONLY of geometric shapes",
+      "2. Exactly three colors present: dark blue, white, light blue",
+      "3. ZERO gradients or shading (colors must be solid/flat)",
+      "4. Complete absence of realistic details (no eyes, waves, ropes)",
+      "5. Complete absence of any 4th color"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Literary Works",
+    "raw_prompt": "A minimalist poster for 1984 by George Orwell. An eye looking through a keyhole. Use exactly three colors: stark black, pure white, and crimson red. The image must be entirely flat. Absolutely no gradients, no grey tones, no shading, and no fourth color of any kind.",
+    "checklist": [
+      "1. Exactly three colors used: black, white, crimson red",
+      "2. Complete absence of any 4th color",
+      "3. Complete absence of gradients, shading, or grey tones",
+      "4. The graphic must be perfectly flat/2D",
+      "5. Concept clearly shows an eye and a keyhole"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Literary Works",
+    "raw_prompt": "A minimalist line-art drawing of Don Quixote tilting at a windmill. Executed using a single, continuous, unvarying thin black line on a solid, pure white background. There must be no shading, no crosshatching, no colored fills, and no grey tones anywhere in the image.",
+    "checklist": [
+      "1. Pure black lines on a solid white background",
+      "2. Complete absence of any colors (no hues at all)",
+      "3. Complete absence of grey tones or shadows",
+      "4. Complete absence of crosshatching or shading textures",
+      "5. Lines must appear unvarying and minimalist"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Film & TV",
+    "raw_prompt": "A minimalist representation of The Matrix bullet-time scene. Exactly two colors: a solid neon green silhouette of a person bending backward, placed on a solid black background. There must be no grid lines, no falling code, no facial features, and absolutely no shading or gradients.",
+    "checklist": [
+      "1. Exactly two colors used: neon green and black",
+      "2. Complete absence of any 3rd color",
+      "3. Figure must be a solid silhouette with NO facial features",
+      "4. Complete absence of gradients or shading",
+      "5. Complete absence of background details (no grid, no code)"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Film & TV",
+    "raw_prompt": "A minimalist wireframe line-art representation of a lightsaber duel. Two simplistic stick figures holding straight lines clashing. Drawn entirely with pure white ink lines on a solid black background. Absolutely no glowing bloom effects, no colored sabers, no shading, and no other colors.",
+    "checklist": [
+      "1. Pure white lines on a solid black background",
+      "2. Complete absence of any colors (no red/blue sabers)",
+      "3. Complete absence of glowing/bloom effects",
+      "4. Complete absence of shading or filled areas",
+      "5. Figures must be extremely simplistic/stick-like"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Film & TV",
+    "raw_prompt": "A strict minimalist geometric abstraction of a shark attack (Jaws). A single large, solid grey triangle pointing upwards towards a small, solid red circle. The background is pure solid white. No water ripples, no fins, no teeth, no gradients, and no additional shapes.",
+    "checklist": [
+      "1. Image consists strictly of a grey triangle and a red circle",
+      "2. Background is solid white",
+      "3. Exactly three colors used: grey, red, white",
+      "4. ZERO gradients, shading, or 3D effects",
+      "5. Complete absence of literal details (no teeth, no water ripples)"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Fictional Characters",
+    "raw_prompt": "A minimalist profile of Sherlock Holmes smoking a pipe. Exactly three colors allowed: a mustard yellow background, a solid navy blue silhouette of the profile, and a single solid white stylized puff of smoke. The profile must be a blank shape with no facial features, no eye, no ear details, and no clothing folds.",
+    "checklist": [
+      "1. Exactly three colors used: mustard yellow, navy blue, white",
+      "2. Complete absence of any 4th color",
+      "3. The profile silhouette must have NO facial features or lines",
+      "4. No clothing details or folds depicted",
+      "5. Completely flat coloring (no shading)"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Fictional Characters",
+    "raw_prompt": "The essence of Batman composed entirely of rigid, untextured polygons. Two sharp black triangles for ears, a black rectangle for the head, and a sweeping black trapezoid for the cape, all set against a solid bright yellow background. Absolutely no facial features, no bat emblem, and no muscular shading.",
+    "checklist": [
+      "1. Character made entirely of rigid geometric polygons",
+      "2. Solid bright yellow background",
+      "3. Complete absence of facial features (no eyes, mouth, cowl lines)",
+      "4. Complete absence of the bat emblem/logo",
+      "5. Complete absence of muscular shading or gradients"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Fictional Characters",
+    "raw_prompt": "A strict line-art minimalist sketch of Superman flying. Executed with unvarying, bold, black marker lines on a pure white background. There must be absolutely no colors, no 'S' emblem on the chest, no shading, no grey tones, and no background elements like clouds or buildings.",
+    "checklist": [
+      "1. Pure black lines on a solid white background",
+      "2. Complete absence of any colors",
+      "3. Complete absence of the chest emblem/logo",
+      "4. Complete absence of shading or grey tones",
+      "5. Complete absence of any background elements"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Public Figures",
+    "raw_prompt": "A strict geometric abstraction of Albert Einstein. A solid beige oval for the face, and pure white floating semi-circles surrounding it for the wild hair. Set against a solid dark grey background. There must be no eyes, no nose, no mouth, no wrinkles, and no clothing lines. Pure shapes only.",
+    "checklist": [
+      "1. Image consists only of geometric shapes (oval, semi-circles)",
+      "2. Exactly three colors: beige, white, dark grey",
+      "3. Complete absence of facial features (no eyes, nose, mouth)",
+      "4. Complete absence of clothing details",
+      "5. Completely flat rendering (no shading or texture)"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Public Figures",
+    "raw_prompt": "A minimalist representation of Charlie Chaplin using exactly three flat colors. A solid black bowler hat and a small solid black rectangle for a mustache, floating on a solid pale grey background. Do not draw the face outline, do not draw eyes, and do not draw a suit. Just the hat and mustache on the background.",
+    "checklist": [
+      "1. Exactly two colors used: black and pale grey",
+      "2. Complete absence of the face outline/head shape",
+      "3. Complete absence of eyes, nose, or mouth",
+      "4. Complete absence of clothing/suit",
+      "5. No gradients or shadows"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Public Figures",
+    "raw_prompt": "A strict minimalist contour drawing of Frida Kahlo. Pure black ink lines on a solid white canvas. Distinctly showing the unibrow and a floral crown using extremely simple, unshaded outlines. There must be no skin tone, no colored flowers, no shading, and no filled-in black areas other than the lines themselves.",
+    "checklist": [
+      "1. Pure black lines on a solid white background",
+      "2. Complete absence of any colors (flowers must be uncolored)",
+      "3. Complete absence of skin tones",
+      "4. Complete absence of shading or crosshatching",
+      "5. No solid filled-in black areas (strict contour style)"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Places",
+    "raw_prompt": "A minimalist geometric landscape of Mount Fuji. A large overlapping solid navy blue triangle, with a smaller pure white triangle perfectly aligned at its peak. A solid crimson red circle hovers directly behind it. The background is solid cream. Absolutely no snow textures, no trees, no clouds, and no gradients.",
+    "checklist": [
+      "1. Image consists strictly of triangles and a circle",
+      "2. Exactly four colors: navy blue, white, crimson red, cream",
+      "3. Complete absence of textures (no realistic snow/rock)",
+      "4. Complete absence of environmental details (no trees/clouds)",
+      "5. Completely flat (no gradients or shading)"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Places",
+    "raw_prompt": "A minimalist poster of the Eiffel Tower using exactly three colors. A solid pastel pink background, a solid dark brown flat silhouette of the tower, and a single solid golden yellow star at the top. There must be no structural lattice details, no windows, no ground, and no gradients.",
+    "checklist": [
+      "1. Exactly three colors used: pastel pink, dark brown, golden yellow",
+      "2. Complete absence of any 4th color",
+      "3. Tower must be a solid silhouette with NO lattice/structural lines inside",
+      "4. Complete absence of ground or surrounding environment",
+      "5. Complete absence of gradients or shading"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Places",
+    "raw_prompt": "An ultra-minimalist New York skyline line art. A single continuous, jagged, uniform black line tracing the heights of skyscrapers horizontally across the center of a pure white canvas. Below and above the line must be pure white. No windows, no streets, no shading, and no sky color.",
+    "checklist": [
+      "1. Pure black single line on a solid white background",
+      "2. Complete absence of any colors",
+      "3. Complete absence of interior details (no windows or doors)",
+      "4. Complete absence of shading, depth, or 3D perspective",
+      "5. Canvas must be purely white above and below the line"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Idioms",
+    "raw_prompt": "A minimalist graphic depicting 'Piece of Cake'. Exactly three colors permitted: a solid beige background, a solid pastel pink triangle for the cake slice, and a single solid red circle resting on top for a cherry. There must be no plate, no cake texture, no crumbs, no shading, and absolutely no fourth color.",
+    "checklist": [
+      "1. Exactly three colors used: beige, pastel pink, red",
+      "2. Complete absence of any 4th color",
+      "3. Complete absence of literal details (no plate, no fork, no crumbs)",
+      "4. Complete absence of cake texture (sponge/icing lines)",
+      "5. Completely flat shapes (no gradients or shading)"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Idioms",
+    "raw_prompt": "A minimalist geometric conceptualization of 'Spill the Beans'. A solid black, tilted rectangle representing a container, with several small, solid brown ovals scattered outside it. The background is purely solid white. There must be no realistic shadows, no table surface, no reflections, and no detailed bean textures.",
+    "checklist": [
+      "1. Image consists only of a rectangle and ovals",
+      "2. Exactly three colors used: black, brown, white",
+      "3. Complete absence of realistic shadows or drop-shadows",
+      "4. Complete absence of environmental context (no table or floor line)",
+      "5. Complete absence of texture on the beans"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Idioms",
+    "raw_prompt": "A strict minimalist line-art illustration of 'Time Flies' (a clock with bird wings). Drawn entirely using unvarying, thin black lines on a solid white background. There must be absolutely no numbers on the clock face, no clock hands, no grey tones, no shading, and no colors.",
+    "checklist": [
+      "1. Pure black lines on a solid white background",
+      "2. Complete absence of any colors",
+      "3. Complete absence of shading or grey tones",
+      "4. Clock face must be completely blank (no numbers, no hands)",
+      "5. Lines must be uniformly thin and unshaded"
+    ]
+  }
+]

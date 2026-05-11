@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "category": "Literary Works",
+    "raw_prompt": "A highly detailed illustration of Miss Havisham from Great Expectations sitting in a dilapidated dining room. She is wearing a faded, yellowing wedding dress with only her left shoe on. Her facial expression shows bitter melancholy and hollow realization. On the wooden table in front of her is a three-tiered wedding cake covered in thick, grey cobwebs. A grandfather clock in the right background is permanently stopped at exactly 8:40. A single small spider hangs from the ceiling fan above her.",
+    "checklist": [
+      "1. Faded, yellowing wedding dress",
+      "2. Only the left shoe is being worn",
+      "3. Facial expression conveys bitter melancholy/hollow realization",
+      "4. Exactly a three-tiered cake on the table",
+      "5. Thick, grey cobwebs specifically covering the cake",
+      "6. Grandfather clock in the right background",
+      "7. Clock hands show exactly 8:40",
+      "8. A single spider hanging from the ceiling fan"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Literary Works",
+    "raw_prompt": "Captain Ahab from Moby Dick standing on a wet wooden deck during a storm. His left leg is a prosthetic made of white jagged bone. He has a distinct diagonal scar running down the right side of his face. His facial expression is one of obsessive fury, with wide unblinking eyes. He is tightly gripping a rusted iron harpoon in his left hand. In the dark, stormy sky behind him, a single white albatross is flying.",
+    "checklist": [
+      "1. Left leg is a white bone prosthetic",
+      "2. Diagonal scar specifically on the right side of his face",
+      "3. Facial expression shows obsessive fury/wide unblinking eyes",
+      "4. Holding a rusted iron harpoon",
+      "5. Harpoon is held specifically in his left hand",
+      "6. A single white albatross flying in the stormy sky background"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Literary Works",
+    "raw_prompt": "A chaotic interpretation of the Mad Hatter's tea party. The Hatter wears a green top hat with a distinct white tag reading '10/6'. His expression is one of frantic, manic confusion with raised asymmetrical eyebrows. Exactly three cracked porcelain teacups sit on a red checkered tablecloth. Inside a brass teapot on the table, a tiny brown dormouse is sleeping. A gold pocket watch is submerged inside one of the teacups.",
+    "checklist": [
+      "1. Green top hat with a '10/6' tag",
+      "2. Facial expression shows frantic confusion/asymmetrical eyebrows",
+      "3. Exactly three teacups on the table",
+      "4. Teacups must be visibly cracked",
+      "5. Red checkered tablecloth",
+      "6. Tiny brown dormouse sleeping inside a brass teapot",
+      "7. A gold pocket watch completely submerged in one teacup"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Film & TV",
+    "raw_prompt": "A sci-fi cyberpunk detective scene. A weary detective stands in an alleyway during heavy rain, his face showing profound exhaustion and quiet resignation. He is holding a tiny, white paper origami unicorn strictly in his right hand. A bright pink neon sign reflects in a puddle near his dark leather boots. In the upper left corner of the background, a flying vehicle with a single glowing red taillight hovers in the fog.",
+    "checklist": [
+      "1. Facial expression shows profound exhaustion/weary resignation",
+      "2. Heavy rain environment",
+      "3. Holding a white paper origami unicorn",
+      "4. Origami is held specifically in the right hand",
+      "5. Bright pink neon sign reflection in a puddle by dark leather boots",
+      "6. Flying vehicle in the upper left background",
+      "7. Vehicle has a single glowing red taillight"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Film & TV",
+    "raw_prompt": "A tense Western standoff. A cowboy wearing a dusty poncho with a geometric green triangle pattern stands in the desert. A lit cigarillo rests in the far left corner of his mouth. His facial expression is a squinting, intense calculation, hiding deep anxiety. A silver pocket watch dangles from a chain over a wooden barrel next to him. High in the pale blue sky, a lone vulture circles above a distant mesa.",
+    "checklist": [
+      "1. Poncho features a geometric green triangle pattern",
+      "2. Lit cigarillo in the far left corner of the mouth",
+      "3. Facial expression shows intense, anxious calculation (squinting)",
+      "4. Silver pocket watch dangling over a wooden barrel",
+      "5. Pale blue sky",
+      "6. Lone vulture circling above a distant mesa"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Film & TV",
+    "raw_prompt": "A fantasy epic council meeting. An elven leader with long blonde hair and a silver circlet looks down at a parchment map spread across a round stone table. Her expression is one of solemn dread and heavy burden. The map clearly depicts a jagged mountain range in red ink. A broken steel sword rests on a purple velvet cushion to the right of the map. A single glowing blue moth rests on the wall torch bracket behind her.",
+    "checklist": [
+      "1. Elven leader with a silver circlet",
+      "2. Facial expression conveys solemn dread/heavy burden",
+      "3. Parchment map on a round stone table",
+      "4. Map shows mountains drawn specifically in red ink",
+      "5. Broken steel sword on a purple velvet cushion",
+      "6. Sword/cushion located to the right of the map",
+      "7. A single glowing blue moth resting on a torch bracket"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Fictional Characters",
+    "raw_prompt": "A clumsy wizard in a cluttered apothecary. He wears a pointed velvet hat adorned with exactly three gold stars. His face is frozen in an expression of awkward panic and sudden realization, eyes wide and mouth slightly open. He is attempting to catch a falling flask containing glowing magenta liquid. On a wooden stool to his left sits a green toad wearing a tiny pair of spectacles.",
+    "checklist": [
+      "1. Pointed velvet hat with exactly three gold stars",
+      "2. Facial expression shows awkward panic/sudden realization",
+      "3. A falling flask containing glowing magenta liquid",
+      "4. A green toad on a wooden stool",
+      "5. Stool is located to the wizard's left",
+      "6. Toad is wearing tiny spectacles"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Fictional Characters",
+    "raw_prompt": "A futuristic cyborg mechanic working in a dimly lit garage. Her left arm is entirely mechanical, featuring exposed copper wiring and silver hydraulic joints. She has a dark grease smudge exactly on her right cheekbone. Her expression is one of fierce, hyper-focused determination. She holds a glowing cyan tool in her organic right hand. A small spherical drone with a single hexagonal green eye hovers just over her right shoulder.",
+    "checklist": [
+      "1. Left arm is mechanical with exposed copper wiring",
+      "2. Dark grease smudge specifically on the right cheekbone",
+      "3. Facial expression shows fierce, hyper-focused determination",
+      "4. Holding a glowing cyan tool in the organic right hand",
+      "5. Small spherical drone hovering over her right shoulder",
+      "6. Drone has a single hexagonal green eye"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Fictional Characters",
+    "raw_prompt": "A highly detailed illustration of Frankenstein's monster sitting on a cold steel surgical table. He has a distinct jagged scar forming a 'Y' shape on his forehead. His expression is one of innocent, childlike sorrow and confusion. He is holding a single wilted white rose in his oversized left hand. Two glowing green electrical coils stand vertically behind the table. A small brass key lies on the floor near his right foot.",
+    "checklist": [
+      "1. 'Y' shaped scar specifically on the forehead",
+      "2. Expression of innocent, childlike sorrow and confusion",
+      "3. Holding a single wilted white rose",
+      "4. Rose is held specifically in the left hand",
+      "5. Exactly two glowing green electrical coils standing vertically behind the table",
+      "6. Small brass key on the floor near his right foot"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Public Figures",
+    "raw_prompt": "Historical physicist Isaac Newton in his 17th-century study. He wears a white ruffled collar that has a distinct, small black ink blot on the left side. His expression captures a moment of breathless, sudden epiphany. On the oak desk in front of him, a glass prism refracts a beam of light into a rainbow that hits a blank parchment. A red apple rests perfectly balanced on a brass scale. Through a window behind him, a waning crescent moon is visible.",
+    "checklist": [
+      "1. White ruffled collar",
+      "2. Distinct small black ink blot on the left side of the collar",
+      "3. Facial expression conveys breathless, sudden epiphany",
+      "4. Glass prism refracting a rainbow onto blank parchment",
+      "5. Red apple balanced on a brass scale",
+      "6. Waning crescent moon visible through the background window"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Public Figures",
+    "raw_prompt": "Chemist Marie Curie in a vintage laboratory. She wears a heavy, dark grey wool dress. Her facial expression shows deep, exhausted perseverance with dark bags under her eyes. She is looking at a glass beaker that emits a faint, eerie green luminescence. Behind her is a large slate chalkboard filled with complex chemical equations in white chalk. A small, brown moth rests on the top right wooden corner of the chalkboard frame.",
+    "checklist": [
+      "1. Heavy, dark grey wool dress",
+      "2. Facial expression shows exhausted perseverance/dark bags under eyes",
+      "3. Glass beaker emitting a faint green luminescence",
+      "4. Slate chalkboard with white chalk equations in the background",
+      "5. A small brown moth",
+      "6. Moth is resting specifically on the top right corner of the chalkboard frame"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Public Figures",
+    "raw_prompt": "Historical portrait of Abraham Lincoln sitting inside a dimly lit canvas military tent. He wears a dark, wrinkled waist coat without a jacket. His facial expression conveys immense, heavy grief and exhaustion, with his eyes closed and his right hand pinching the bridge of his nose. On the folding wooden desk in front of him are exactly four crumpled pieces of paper. A lit brass oil lamp with a cracked glass chimney sits to his left. A small blue inkwell is tipped over on the desk.",
+    "checklist": [
+      "1. Wearing a wrinkled waist coat without a jacket",
+      "2. Expression of immense grief/exhaustion with eyes closed",
+      "3. Right hand specifically pinching the bridge of the nose",
+      "4. Exactly four crumpled pieces of paper on the desk",
+      "5. Brass oil lamp with a cracked glass chimney to his left",
+      "6. Tipped over blue inkwell on the desk"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Places",
+    "raw_prompt": "A vibrant New Orleans French Quarter street scene at dusk. A street musician sits on a wooden crate playing a brass saxophone that has a visible dent in its bell. His face displays an expression of pure, joyful musical absorption, eyes closed. The cobblestone street is glossy and wet from recent rain. Above him is a black wrought-iron balcony with a hanging green fern. An orange tabby cat with a white tail sits watching him from a nearby brick stoop.",
+    "checklist": [
+      "1. Brass saxophone with a visible dent in the bell",
+      "2. Facial expression shows joyful absorption/eyes closed",
+      "3. Glossy, wet cobblestone street",
+      "4. Black wrought-iron balcony above with a hanging green fern",
+      "5. Orange tabby cat watching from a brick stoop",
+      "6. Cat specifically has a white tail"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Places",
+    "raw_prompt": "A futuristic, cyberpunk vision of the Shanghai skyline. In the foreground river, a traditional wooden junk boat with ribbed red sails is passing by. The background features towering skyscrapers outlined with bright yellow neon borders. A massive holographic billboard projects a giant, glowing blue lotus flower. A dense, low-hanging fog rolls in exclusively from the right side of the image. A flock of exactly five seagulls flies near the top of the wooden boat's mast.",
+    "checklist": [
+      "1. Traditional wooden junk boat with ribbed red sails in foreground",
+      "2. Skyscrapers outlined with bright yellow neon borders",
+      "3. Holographic billboard showing a glowing blue lotus flower",
+      "4. Dense fog rolling in specifically from the right side",
+      "5. A flock of seagulls near the boat's mast",
+      "6. Exactly five seagulls in the flock"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Places",
+    "raw_prompt": "An eerie, abandoned carnival at twilight. The sky is a deep, bruised purple. A rusted Ferris wheel dominates the center, noticeably missing exactly two of its passenger carts. In the foreground, a wooden ticket booth is heavily overgrown with creeping green ivy. Pinned to the booth is a faded circus poster of a smiling clown, but the bottom left corner of the poster is torn off. A single, fully inflated red balloon is tied to a rusted turnstile gate.",
+    "checklist": [
+      "1. Deep purple twilight sky",
+      "2. Rusted Ferris wheel",
+      "3. Ferris wheel is missing exactly two passenger carts",
+      "4. Ticket booth overgrown with green ivy",
+      "5. Faded clown poster on the booth",
+      "6. Bottom left corner of the poster is visibly torn off",
+      "7. Single inflated red balloon tied to a rusted turnstile"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Idioms",
+    "raw_prompt": "A literal depiction of 'letting the cat out of the bag' in a rustic kitchen. A rough burlap sack with a frayed rope tie sits on a wooden floor. A calico cat with distinct orange and black patches is stepping out of the bag, leading with a single pure white paw. A person stands nearby, their face frozen in an expression of guilty, awkward panic. Next to the bag on the floor is an overturned glass, spilling white milk. A tiny grey house mouse is peeking out of a crack in the baseboard.",
+    "checklist": [
+      "1. Burlap sack with a frayed rope tie",
+      "2. Calico cat stepping out",
+      "3. Cat is leading specifically with a pure white paw",
+      "4. Facial expression shows guilty, awkward panic",
+      "5. Overturned glass spilling white milk on the wooden floor",
+      "6. Tiny grey mouse peeking out from a baseboard crack"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Idioms",
+    "raw_prompt": "A literal depiction of 'spilling the beans' at a diner. A silver tin can has been knocked over on a red-and-white checkered tablecloth. Exactly seven roasted coffee beans are rolling away from the can. A woman sits at the table, biting her lower lip with an expression of nervous, defensive regret. Her hands are hovering defensively near her chest. To her right is a steaming white ceramic mug with a visible chip on its rim. A folded newspaper showing a half-finished crossword puzzle rests near the mug.",
+    "checklist": [
+      "1. Knocked over silver tin can",
+      "2. Red-and-white checkered tablecloth",
+      "3. Exactly seven roasted coffee beans rolling away",
+      "4. Facial expression shows nervous, defensive regret (biting lower lip)",
+      "5. Steaming white ceramic mug to her right",
+      "6. Mug has a visible chip on the rim",
+      "7. Newspaper showing a half-finished crossword puzzle"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Idioms",
+    "raw_prompt": "A literal depiction of 'the elephant in the room' during a tense dinner party. A massive, grey African elephant is squeezed into a small, elegant dining room with floral wallpaper. The elephant is wearing a tiny, comical red bow tie. Three people are sitting at the round dinner table, meticulously ignoring it. The person in the foreground has an expression of forced, strained politeness, aggressively cutting a small steak. A crystal chandelier above is distinctly tilted to the left. A single pink teacup is shattered on the wooden floor.",
+    "checklist": [
+      "1. African elephant in a dining room",
+      "2. Elephant wearing a tiny red bow tie",
+      "3. Exactly three people sitting at the table",
+      "4. Foreground person shows forced, strained politeness while cutting steak",
+      "5. Chandelier above is tilted specifically to the left",
+      "6. Single shattered pink teacup on the floor"
+    ]
+  }
+]

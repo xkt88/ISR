@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "category": "Idioms",
+    "region": "East Asian",
+    "raw_prompt": "A literal depiction of the Chinese idiom 'Hua She Tian Zu' (Drawing legs on a snake). A traditional Chinese scholar wearing a Hanfu robe is kneeling on a bamboo mat, painting on a long scroll of rice paper with an ink brush. On the scroll, there is a clear, highly detailed ink painting of a snake, but the snake has been drawn with four distinct bird-like clawed feet. A pot of black ink sits to his right.",
+    "checklist": [
+      "1. Scholar wearing traditional Hanfu robe",
+      "2. Painting on a scroll of rice paper",
+      "3. The painting specifically shows a snake",
+      "4. The snake in the painting has exactly four clawed feet added to it",
+      "5. A pot of black ink located to the scholar's right"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Fictional Characters",
+    "region": "East Asian",
+    "raw_prompt": "Dian Wei, the fierce general of Cao Cao from Romance of the Three Kingdoms, defending the camp gate. He is a heavily muscled Chinese warrior wielding a pair of massive iron twin halberds (Shuang Ji). He wears heavy Han-dynasty scale armor but is noticeably not wearing a helmet. He stands fiercely in front of a burning wooden palisade gate. The ground at his feet is littered with broken enemy spears.",
+    "checklist": [
+      "1. Heavily muscled Chinese warrior",
+      "2. Wielding a pair of twin iron halberds (Shuang Ji)",
+      "3. Wearing scale armor but no helmet",
+      "4. Standing in front of a burning wooden gate",
+      "5. Broken spears littered on the ground at his feet"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Places",
+    "region": "East Asian",
+    "raw_prompt": "A traditional Korean Jesa (ancestor memorial) ritual table setup in a traditional Hanok home. A polished wooden table holds carefully stacked rows of fruits. Specifically, the top of the stacked yellow pears has been horizontally sliced off, exposing the white flesh. A wooden tablet with Hanja calligraphy sits in the center back of the table. A folding screen with mountain landscape paintings stands behind the table.",
+    "checklist": [
+      "1. Stacked fruits on a wooden table",
+      "2. The top of the yellow pears must be visibly sliced off (cultural specific)",
+      "3. Wooden memorial tablet with Hanja calligraphy in the center back",
+      "4. Folding screen with a mountain landscape behind the table",
+      "5. Traditional Korean architecture/room aesthetic"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Literary Works",
+    "region": "South Asian",
+    "raw_prompt": "A scene from Premchand's classic Hindi novel 'Godaan' (The Gift of a Cow). An impoverished Indian farmer, Hori, in a rural 1930s village. He wears a ragged white dhoti and an old turban. He is proudly holding the rope of a healthy, beautifully decorated Indian Zebu cow (with a prominent hump). The cow has colorful painted horns and a garland of marigolds around its neck. A dusty mud-brick hut is in the background.",
+    "checklist": [
+      "1. Farmer wearing a ragged white dhoti and turban",
+      "2. Indian Zebu cow with a prominent, distinct shoulder hump",
+      "3. Cow's horns are colorfully painted",
+      "4. Cow is wearing a garland of marigold flowers",
+      "5. Rural mud-brick hut in the background"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Public Figures",
+    "region": "South Asian",
+    "raw_prompt": "Indian mathematician Srinivasa Ramanujan sitting in a chilly 1910s Cambridge university office. He is wearing a heavy, slightly oversized Western tweed suit but has a distinct Hindu Brahmin caste mark (a white U-shape with a red line) on his forehead. He is intensely writing complex infinite series equations on a slate chalkboard. A small brass cup of tea sits on a pile of papers on his desk.",
+    "checklist": [
+      "1. Wearing a 1910s Western tweed suit",
+      "2. Distinct Hindu Brahmin caste mark on his forehead",
+      "3. Writing infinite series equations on a slate chalkboard",
+      "4. A small brass cup of tea",
+      "5. Cup is sitting directly on a pile of papers"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Film & TV",
+    "region": "South Asian",
+    "raw_prompt": "A cinematic, black-and-white scene inspired by Satyajit Ray's Pather Panchali. Two impoverished Bengali children, a young boy and his older sister, are running excitedly through a dense field of tall, feathery white Kash grass. The boy is wearing an oversized, noticeably torn woven shirt. In the far background, an old steam train is passing by, emitting a thick plume of black smoke against a grey sky.",
+    "checklist": [
+      "1. Image is rendered purely in black-and-white",
+      "2. Two Indian children (boy and older sister) running",
+      "3. Running through tall, feathery Kash grass",
+      "4. The boy is wearing an oversized, torn shirt",
+      "5. A steam train emitting black smoke in the far background"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Idioms",
+    "region": "Slavic",
+    "raw_prompt": "A literal depiction of the Russian idiom 'Hanging noodles on someone's ears' (meaning to tell lies). Two men sit in a cold, Soviet-era apartment. One man, wearing a thick wool ushanka hat, is speaking enthusiastically. The other man is listening with a confused expression, and there are literally long, cooked yellow pasta noodles draped perfectly over both of his ears. A traditional silver samovar sits on the table between them.",
+    "checklist": [
+      "1. Speaker is wearing a thick wool ushanka hat",
+      "2. Listener has a confused expression",
+      "3. Long, cooked yellow pasta noodles draped over both of the listener's ears",
+      "4. A traditional silver samovar on the table",
+      "5. Cold, Soviet-era apartment aesthetic"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Fictional Characters",
+    "region": "Slavic",
+    "raw_prompt": "The Slavic witch Baba Yaga flying through a dark, foggy birch forest. Crucially, she is not riding a broom; instead, she is sitting inside a giant, flying wooden mortar, using a heavy wooden pestle in her right hand to steer. In her left hand, she holds a broom made of silver birch twigs to sweep away her tracks in the air. She wears a peasant dress featuring traditional red Slavic embroidery.",
+    "checklist": [
+      "1. Flying through a birch forest",
+      "2. Sitting inside a giant flying wooden mortar (not straddling a broom)",
+      "3. Holding a wooden pestle in her right hand",
+      "4. Holding a silver birch twig broom in her left hand",
+      "5. Peasant dress featuring red Slavic embroidery"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Places",
+    "region": "Slavic",
+    "raw_prompt": "A lively Polish Śmigus-dyngus (Wet Monday) celebration in a cobblestone village square during early spring. Young people wearing traditional Krakowiak vests (dark colored with vibrant, multi-colored floral embroidery) are enthusiastically splashing water on each other from heavy wooden buckets. A smiling young woman in the foreground is holding a branch of green pussy willow in her left hand. The sky is overcast.",
+    "checklist": [
+      "1. Cobblestone village square setting",
+      "2. People splashing water from heavy wooden buckets",
+      "3. Wearing dark vests with vibrant floral embroidery (Krakowiak style)",
+      "4. A woman in the foreground holding a pussy willow branch",
+      "5. Pussy willow branch held specifically in her left hand"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Literary Works",
+    "region": "African",
+    "raw_prompt": "Anansi the Spider from West African Akan folklore. He is depicted as a large, mystical spider with an anthropomorphic, clever human-like face. Draped elegantly over his spider abdomen is a strip of vibrant, geometric Kente cloth featuring distinct yellow, green, and red block patterns. He is suspended between two massive Baobab trees, weaving a web made of glowing, luminescent golden threads.",
+    "checklist": [
+      "1. Large spider with an anthropomorphic human-like face",
+      "2. Draped with geometric Kente cloth (yellow, green, red blocks)",
+      "3. Suspended between two thick Baobab trees",
+      "4. Weaving a web made of glowing golden threads",
+      "5. Holding a dried calabash gourd in a lower left leg"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Public Figures",
+    "region": "African",
+    "raw_prompt": "A historical portrait of Queen Idia of the Benin Empire. She is a regal African woman wearing a distinctive, high conical crown constructed entirely of tightly woven red coral beads. She also wears a high, thick collar of matching red coral beads that covers her neck completely up to her chin. Her expression is stoic and powerful. In her right hand, she vertically holds an Eben (a traditional leaf-shaped brass ceremonial sword).",
+    "checklist": [
+      "1. High conical crown made specifically of red coral beads",
+      "2. Thick neck collar also made of red coral beads",
+      "3. Facial expression is stoic and powerful",
+      "4. Holding an Eben (leaf-shaped brass ceremonial sword)",
+      "5. Sword held vertically in the right hand"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Film & TV",
+    "region": "African",
+    "raw_prompt": "A scene inspired by 'The Gods Must Be Crazy' in the Kalahari desert. A San bushman wearing traditional minimalist animal-hide clothing is standing on red desert sand. He has a look of absolute bewilderment on his face. He is holding a perfectly intact, classic glass Coca-Cola bottle up to the bright blue sky, examining it. A solitary acacia tree stands in the far background.",
+    "checklist": [
+      "1. Bushman wearing minimalist animal-hide clothing",
+      "2. Standing on distinctly red desert sand",
+      "3. Facial expression shows absolute bewilderment",
+      "4. Holding a classic glass Coca-Cola bottle up to the sky",
+      "5. Solitary acacia tree in the background"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Idioms",
+    "region": "Latin American",
+    "raw_prompt": "A literal depiction of the Mexican idiom 'Echarle mucha crema a sus tacos' (Putting too much cream on your tacos, meaning to show off). A boastful Mariachi musician in a black charro suit with silver embroidery is standing at a street food cart. He is holding a single small street taco, but he is squeezing an absurdly massive, towering mountain of white sour cream onto it from a plastic bottle. The cream is spilling onto his gloved hand.",
+    "checklist": [
+      "1. Musician in a black charro suit with silver embroidery",
+      "2. Standing at a street food cart",
+      "3. Holding a single small street taco",
+      "4. Squeezing a massive, absurdly tall mountain of white sour cream onto it",
+      "5. Sour cream is spilling onto a gloved hand"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Fictional Characters",
+    "region": "Latin American",
+    "raw_prompt": "El Sombrerón from Guatemalan folklore. He is a very short, dwarfish man wearing an exaggeratedly oversized, wide-brimmed black hat that completely shadows his face. He stands in a moonlit, colonial cobblestone alleyway, playing a small, ornate silver acoustic guitar. Standing quietly next to him is a midnight-black horse. The Sombrerón's left hand is intricately braiding the horse's mane into complex, tight knots.",
+    "checklist": [
+      "1. Very short, dwarfish man",
+      "2. Wearing an exaggeratedly oversized, wide-brimmed black hat",
+      "3. Playing an ornate silver acoustic guitar",
+      "4. A black horse standing quietly next to him",
+      "5. Braiding the horse's mane into knots with his left hand"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Places",
+    "region": "Latin American",
+    "raw_prompt": "A traditional artisan workshop in Oaxaca, Mexico, filled with Alebrijes. In the center of a rustic wooden table sits a masterfully carved, brightly painted wooden sculpture. The creature combines the body of a jaguar, the large wings of a bat, and the branching antlers of a deer. The sculpture's base color is vivid neon pink, meticulously covered in intricate green and yellow dot-art patterns. Unpainted blocks of copal wood are stacked behind it.",
+    "checklist": [
+      "1. Wooden sculpture combining a jaguar body, bat wings, and deer antlers",
+      "2. Sculpture base color is vividly neon pink",
+      "3. Covered in intricate green and yellow dot-art patterns",
+      "4. Sitting on a rustic wooden table",
+      "5. Unpainted blocks of wood stacked in the background"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Literary Works",
+    "region": "Middle Eastern",
+    "raw_prompt": "A scene from the Arabic epic 'One Thousand and One Nights'. Shahrazad is sitting in an opulent, dimly lit Persian palace bedroom, weaving a tale. She wears an intricate silk hijab and gold headpiece. The king, Shahryar, sits listening intently on a velvet cushion. Above them, emerging from the smoke of a brass incense burner on the floor, is a faint, glowing spectral image of a flying wooden horse.",
+    "checklist": [
+      "1. Shahrazad wearing an intricate silk hijab and gold headpiece",
+      "2. King Shahryar sitting on a velvet cushion listening",
+      "3. Brass incense burner on the floor emitting smoke",
+      "4. Smoke forming a glowing spectral image",
+      "5. The spectral image is specifically of a flying wooden horse"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Public Figures",
+    "region": "Middle Eastern",
+    "raw_prompt": "12th-century polymath Ismail al-Jazari in his workshop. He is an Arab scholar wearing a traditional green turban and a flowing tunic. He is carefully adjusting the mechanical gears inside a massive, highly detailed 'Elephant Clock' (a large water clock built into the shape of an Asian elephant carrying a howdah on its back). He holds a brass caliper in his left hand. An astrolabe hangs on the stone wall.",
+    "checklist": [
+      "1. Scholar wearing a traditional green turban",
+      "2. Massive clock built into the shape of an Asian elephant",
+      "3. The elephant is carrying a howdah on its back",
+      "4. Holding a brass caliper specifically in his left hand",
+      "5. An astrolabe hanging on the stone wall"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Film & TV",
+    "region": "Middle Eastern",
+    "raw_prompt": "A poetic scene inspired by the Iranian film 'The Color of Paradise'. A young, blind Iranian boy is kneeling by a small, clear woodland stream in a lush green forest. He wears a simple blue sweater. His eyes are closed in deep concentration, and his hands are gently feeling the smooth, wet pebbles on the riverbank as if reading braille. A vibrant yellow woodpecker clings to a tree trunk directly behind him.",
+    "checklist": [
+      "1. Young boy kneeling by a woodland stream",
+      "2. Boy is wearing a simple blue sweater",
+      "3. Eyes are closed, feeling wet pebbles with his hands",
+      "4. Lush green forest environment",
+      "5. A vibrant yellow woodpecker clinging to a tree trunk behind him"
+    ]
+  }
+]
