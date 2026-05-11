@@ -25,34 +25,37 @@ Assesses instruction adherence under strict minimalist rendering constraints, sp
 
 ---
 
-## 2. Model Performance and Rankings
+## 2. Model Performance, Rankings, and Cost Efficiency
 
 Each model generated 54 images (one per prompt). Images were evaluated against the prompt's specific checklist. The score represents the percentage of successfully rendered checkpoints (Hit Rate). 
 
+To ensure the scalability of the Iterative Self-Refinement (ISR) framework—which requires thousands of generation cycles—we also plot performance against the base API cost per generation (USD).
+
 **Total Evaluated Checkpoints per Model: 293**
 
-| Rank | Model | Overall Hit Rate | Prompt Adherence | Cultural Coverage | Stylistic Fidelity |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | **Gemini-2.5-Flash-Image (Nano-Banana)** | **86.4%** | **89.3%** | **84.4%** | **85.5%** |
-| 2 | DALL-E-3 | 81.2% | 87.6% | 76.6% | 79.4% |
-| 3 | GPT-Image-1.5 | 78.8% | 83.1% | 80.0% | 73.3% |
-| 4 | FLux-2-Pro | 75.1% | 74.3% | 78.8% | 72.2% |
-| 5 | Qwen-Image | 69.9% | 68.1% | 75.5% | 66.1% |
-| 6 | StableDiffusion | 64.5% | 60.1% | 65.5% | 67.9% |
-| 7 | Seedream 4.5 | 61.2% | 58.4% | 62.2% | 63.0% |
-| 8 | Grok-Imagine | 58.7% | 55.7% | 58.8% | 61.6% |
+| Rank | Model | Overall Hit Rate | Prompt Adherence | Cultural Coverage | Stylistic Fidelity | Cost per Image (USD) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Gemini-2.5-Flash-Image (Nano-Banana)** | **86.4%** | **89.3%** | **84.4%** | **85.5%** | **$0.027** |
+| 2 | DALL-E-3 | 81.2% | 87.6% | 76.6% | 79.4% | $0.045 |
+| 3 | GPT-Image-2 | 79.1% | 83.5% | 80.5% | 73.3% | $0.180 |
+| 4 | Ideogram-v3 | 77.5% | 84.0% | 72.0% | 76.5% | $0.061 |
+| 5 | FLUX-2-Pro | 75.1% | 74.3% | 78.8% | 72.2% | $0.030 |
+| 6 | Qwen-Image | 69.9% | 68.1% | 75.5% | 66.1% | $0.020 |
+| 7 | Hunyuan-Image-2.1 | 67.4% | 65.0% | 74.0% | 63.2% | $0.086 |
+| 8 | StableDiffusion3.5-L | 64.5% | 60.1% | 65.5% | 67.9% | $0.056 |
+| 9 | Seedream-4.5 | 61.2% | 58.4% | 62.2% | 63.0% | $0.040 |
+| 10 | Grok-Imagine-Image | 58.7% | 55.7% | 58.8% | 61.6% | $0.020 |
 
-
+*(Note: The raw checkpoint evaluation data for all 540 generated images can be found in `raw_evaluations.csv`.)*
 
 ---
 
-## 3. Cost-per-Generation Analysis
+## 3. Cost-Performance Analysis & Synthesizer Selection
 
-In addition to the three generation criteria, we factored in API cost efficiency, as the full ISR benchmark requires thousands of iterative generation cycles. 
+Integrating the cost analysis (Column 7) fundamentally clarifies the synthesizer selection:
 
-* **Gemini-2.5-Flash-Image (Nano-Banana)** provided the highest Overall Hit Rate (86.4%) while maintaining one of the lowest per-image generation costs among the top-tier proprietary models. 
-* Models like DALL-E-3 and FLux-2-Pro, while competitive in Prompt Adherence, exhibited higher friction with negative prompting in the Stylistic Fidelity tests (often failing to suppress gradients or extra colors) and incurred significantly higher per-image API costs.
+* **The Efficiency Frontier:** **Gemini-2.5-Flash-Image (Nano-Banana)** not only provided the highest Overall Hit Rate (86.4%) but did so at a highly competitive cost of $0.027 per generation. 
+* **The Cost Penalty of Proprietary Alternatives:** While models like GPT-Image-2 and DALL-E-3 offer competitive Prompt Adherence, they exhibit higher friction with negative prompting in the Stylistic Fidelity tests (frequently failing to suppress gradients or extra colors). More critically, GPT-Image-2 incurs a severe cost penalty ($0.180 per image)—nearly 6.6x the cost of Nano-Banana—making it computationally prohibitive for a multi-turn iterative refinement pipeline.
+* **Open-Weight/Alternative Baselines:** Budget-friendly models like Qwen-Image and Grok-Imagine-Image ($0.020) suffer from severe capability drop-offs, particularly in following strict stylistic constraints, falling below the 70% reliability threshold required for an automated pipeline.
 
-## 4. Conclusion
-
-Based on the composite scoring of the multi-criteria decision matrix, **Gemini-2.5-Flash-Image (Nano-Banana)** was selected as the frozen T2IM visual synthesizer for all experiments in the main paper. It successfully isolates the variable of interest—the prompt-authoring LLM—by providing a highly compliant, culturally grounded, and cost-efficient rendering backbone.
+**Conclusion:** Based on the composite scoring of the multi-criteria decision matrix, **Gemini-2.5-Flash-Image (Nano-Banana)** was selected as the frozen T2IM visual synthesizer. It is the only model that simultaneously delivers the >85% instruction compliance needed to isolate the LLM's reasoning capabilities, while remaining cost-viable for iterative loop execution.
