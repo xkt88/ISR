@@ -39,7 +39,7 @@ Each model generated 54 images (one per prompt). Images were evaluated against t
 | 4 | FLux-2-Pro | 75.1% | 74.3% | 78.8% | 72.2% |
 | 5 | Qwen-Image-2.0 | 69.9% | 68.1% | 75.5% | 66.1% |
 | 6 | StableDiffusion | 64.5% | 60.1% | 65.5% | 67.9% |
-| 7 | seedream 4.5 | 61.2% | 58.4% | 62.2% | 63.0% |
+| 7 | Seedream 4.5 | 61.2% | 58.4% | 62.2% | 63.0% |
 | 8 | Grok-Imagine | 58.7% | 55.7% | 58.8% | 61.6% |
 
 
