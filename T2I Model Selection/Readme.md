@@ -38,7 +38,7 @@ To ensure mathematical rigor, the percentages below reflect exact fractional hit
 | Rank | Model | Overall Hit Rate | Prompt Adherence | Cultural Coverage | Stylistic Fidelity | Cost per Image (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Gemini-2.5-Flash-Image (Nano-Banana)** | **88.4%** | **90.3%** | **90.0%** | 84.4% | **$0.027** |
-| 2 | GPT-Image-2 | 87.7% | 87.6% | 86.7% | **88.9%** | $0.180 |
+| 2 | GPT-Image-1.5 | 87.7% | 87.6% | 86.7% | **88.9%** | $0.180 |
 | 3 | Qwen-Image | 80.9% | 80.5% | 83.3% | 78.9% | $0.020 |
 | 4 | Grok-Imagine-Image | 80.2% | 83.2% | 75.6% | 81.1% | $0.020 |
 | 5 | Hunyuan-Image-2.1 | 78.2% | 77.9% | 81.1% | 75.6% | $0.086 |
